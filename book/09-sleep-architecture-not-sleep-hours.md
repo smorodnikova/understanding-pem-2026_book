@@ -123,7 +123,7 @@ Change one variable. Observe for two weeks. Then decide. The usual trap in sleep
 
 \[6\] Harding EC, Franks NP, Wisden W. 2019\. “The temperature dependence of sleep.” *Frontiers in Neuroscience* 13:336. Core body temperature decline is a permissive signal for slow-wave sleep initiation; ambient bedroom temperature of 18–20°C supports this process.
 
-\[7\] Cooper VL, Hainsworth R. 2008\. “Head-up sleeping improves orthostatic tolerance in patients with syncope.” *Clinical Autonomic Research* 18(6):318–324. doi:10.1007/s10286-008-0494-8. Twelve patients slept with the head of the bed raised by 10 degrees for three to four months; eleven showed improved orthostatic tolerance and plasma volume rose significantly. The authors note the measure may not be tolerated long term by patients or bed-partners. Support for plasma volume maintenance.
+\[7\] Cooper VL, Hainsworth R. 2008\. “Head-up sleeping improves orthostatic tolerance in patients with syncope.” *Clinical Autonomic Research* 18(6):318–324. DOI: [10.1007/s10286-008-0494-8](https://doi.org/10.1007/s10286-008-0494-8) Twelve patients slept with the head of the bed raised by 10 degrees for three to four months; eleven showed improved orthostatic tolerance and plasma volume rose significantly. The authors note the measure may not be tolerated long term by patients or bed-partners. Support for plasma volume maintenance.
 
 \[8\] Sachse C, Brockmöller J, Bauer S, Roots I. 1999\. “Functional significance of a C→A polymorphism in intron 1 of the cytochrome P450 CYP1A2 gene tested with caffeine.” *British Journal of Clinical Pharmacology* 47(4):445–449. Polymorphic CYP1A2 variants account for wide individual variability in caffeine metabolism rate and half-life.
 

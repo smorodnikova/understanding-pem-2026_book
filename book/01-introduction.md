@@ -98,9 +98,9 @@ This is not busywork. It is the start of your own manual, the one the hospital d
 ---
 
 ## Sources
-Callard F, Perego E. How and why patients made Long Covid. *Social Science & Medicine*. 2021;268:113426. DOI:10.1016/j.socscimed.2020.113426
+Callard F, Perego E. How and why patients made Long Covid. *Social Science & Medicine*. 2021;268:113426. DOI: [10.1016/j.socscimed.2020.113426](https://doi.org/10.1016/j.socscimed.2020.113426)
 
-Davis HE, Assaf GS, McCorkell L, et al. Characterizing Long COVID in an international cohort: 7 months of symptoms and their impact. *EClinicalMedicine*. 2021;38:101019. DOI:10.1016/j.eclinm.2021.101019
+Davis HE, Assaf GS, McCorkell L, et al. Characterizing Long COVID in an international cohort: 7 months of symptoms and their impact. *EClinicalMedicine*. 2021;38:101019. DOI: [10.1016/j.eclinm.2021.101019](https://doi.org/10.1016/j.eclinm.2021.101019)
 
 ---
 

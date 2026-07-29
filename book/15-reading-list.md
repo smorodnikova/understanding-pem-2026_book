@@ -77,7 +77,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 ## Chapter 3 — Five diagnoses, one problem
 ### Tier 1
-* **Mathew GT, Novak P. (2026).** “Prevalence of Central Sensitization in Postural Tachycardia Syndrome.” *JAMA Network Open* 9(1):e2553694. doi:10.1001/jamanetworkopen.2025.53694. Case-control study of 305 patients with confirmed POTS; 264 (86.6%) met criteria for central sensitization syndrome. Underpins the “same underlying process, many diagnostic labels” frame.
+* **Mathew GT, Novak P. (2026).** “Prevalence of Central Sensitization in Postural Tachycardia Syndrome.” *JAMA Network Open* 9(1):e2553694. DOI: [10.1001/jamanetworkopen.2025.53694](https://doi.org/10.1001/jamanetworkopen.2025.53694) Case-control study of 305 patients with confirmed POTS; 264 (86.6%) met criteria for central sensitization syndrome. Underpins the “same underlying process, many diagnostic labels” frame.
 
 * **Weinstock LB, Brook JB, Walters AS, Goris A, Afrin LB, Molderings GJ (2021).** “Mast cell activation symptoms are prevalent in long-COVID.” *International Journal of Infectious Diseases* 112:217–226. Compares LC symptom patterns to MCAS symptom patterns; the source the chapter’s mast-cell paragraph rests on, with corrected reading that the paper reports severity and symptom-count overlap rather than a prevalence percentage.
 
@@ -85,7 +85,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Khalsa SS, Adolphs R, Cameron OG, et al. (2018).** “Interoception and mental health: a roadmap.” *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* 3(6):501–513. Accessible anatomical anchor for “interoceptive mismatch” — the insular cortex, and why the body’s report is accurate even when the input has changed.
 
-* **Salvucci F, Codella R, Coppola A, Zacchei I, et al. (2023).** “Antihistamines improve cardiovascular manifestations and other symptoms of long-COVID attributed to mast cell activation.” *Frontiers in Cardiovascular Medicine* 10:1202696. doi:10.3389/fcvm.2023.1202696. Fourteen treated patients against thirteen controls; complete resolution in 29%. Small and open-label — Open-label n=27 of fexofenadine plus famotidine at standard doses; roughly one-third of patients showed full resolution. Small, non-randomised, clinician-supervised territory — included because the pairing appears in current clinical practice and is referenced directly in-chapter.
+* **Salvucci F, Codella R, Coppola A, Zacchei I, et al. (2023).** “Antihistamines improve cardiovascular manifestations and other symptoms of long-COVID attributed to mast cell activation.” *Frontiers in Cardiovascular Medicine* 10:1202696. DOI: [10.3389/fcvm.2023.1202696](https://doi.org/10.3389/fcvm.2023.1202696) Fourteen treated patients against thirteen controls; complete resolution in 29%. Small and open-label — Open-label n=27 of fexofenadine plus famotidine at standard doses; roughly one-third of patients showed full resolution. Small, non-randomised, clinician-supervised territory — included because the pairing appears in current clinical practice and is referenced directly in-chapter.
 
 * **Vernino S, Hopkins S, Bryarly M, et al. (2024).** “Randomized controlled trial of intravenous immunoglobulin for autoimmune POTS (iSTAND).” *Clinical Autonomic Research* 34(1):153–163. The first placebo-controlled IVIg trial in autoimmune POTS; neutral primary endpoint, and the anchor of the book’s hedged IVIg paragraph.
 
@@ -110,11 +110,11 @@ Patient-led research is flagged where it appears. This body of work is not an af
 ### Tier 1
 * **Thieben MJ, Sandroni P, Sletten DM, et al. (2007).** “Postural orthostatic tachycardia syndrome: the Mayo Clinic experience.” *Mayo Clinic Proceedings* 82(3):308–313. Clinical description of POTS subtypes as the Mayo group worked them out; useful for the neuropathic / hyperadrenergic / hypovolemic / autoimmune split.
 
-* **Fu Q, VanGundy TB, Galbreath MM, et al. (2010).** “Cardiac origins of the postural orthostatic tachycardia syndrome.” *Journal of the American College of Cardiology* 55(25):2858–2868. doi:10.1016/j.jacc.2010.02.043. Twenty-seven patients against sixteen controls; blood and plasma volume about a fifth lower, left-ventricular mass about 16% smaller. Characterises the reduced stroke volume and cardiac-reserve side of POTS — a companion to the peripheral-pooling picture.
+* **Fu Q, VanGundy TB, Galbreath MM, et al. (2010).** “Cardiac origins of the postural orthostatic tachycardia syndrome.” *Journal of the American College of Cardiology* 55(25):2858–2868. DOI: [10.1016/j.jacc.2010.02.043](https://doi.org/10.1016/j.jacc.2010.02.043) Twenty-seven patients against sixteen controls; blood and plasma volume about a fifth lower, left-ventricular mass about 16% smaller. Characterises the reduced stroke volume and cardiac-reserve side of POTS — a companion to the peripheral-pooling picture.
 
 * **Haensch C-A, Tosch M, Katona I, Weis J, Isenmann S (2014).** “Small-fiber neuropathy with cardiac denervation in postural tachycardia syndrome.” *Muscle & Nerve* 50(6):956–961. The anatomical hook under the neuropathic POTS subtype.
 
-* **Uppal J, Baker JR, Hira R, et al. (2025).** “Physiological and clinical comparison of active stand and head-up tilt tests in Postural Orthostatic Tachycardia Syndrome (POTS).” *Autonomic Neuroscience* 260:103281. doi:10.1016/j.autneu.2025.103281. Sixty patients did both tests on the same day. Hemodynamic trajectories were broadly similar, but 74% met the POTS heart-rate criterion on active stand against 98% on tilt. Read it for the limit as much as for the ground for the NASA Lean Test home-equivalent.
+* **Uppal J, Baker JR, Hira R, et al. (2025).** “Physiological and clinical comparison of active stand and head-up tilt tests in Postural Orthostatic Tachycardia Syndrome (POTS).” *Autonomic Neuroscience* 260:103281. DOI: [10.1016/j.autneu.2025.103281](https://doi.org/10.1016/j.autneu.2025.103281) Sixty patients did both tests on the same day. Hemodynamic trajectories were broadly similar, but 74% met the POTS heart-rate criterion on active stand against 98% on tilt. Read it for the limit as much as for the ground for the NASA Lean Test home-equivalent.
 
 * **Bateman Horne Center.** *NASA Lean Test Instructions.* Patient handout. The protocol Ch 04 and Ch 05 use directly; a one-page procedure any reader can run at home.
 
@@ -161,7 +161,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 * **Casson S, Jones MD, Cassar J, et al. (2023).** “The effectiveness of activity pacing interventions for people with chronic fatigue syndrome: a systematic review and meta-analysis.” *Disability and Rehabilitation* 45(23):3788–3802. Fourteen studies; fatigue Hedges’ g −0.52 (95% CI −0.73 to −0.32). Pair it with the scoping review below, which reads the same literature more cautiously. Pooled evidence on pacing outcomes.
 
 ### Tier 2
-* **Seeley M-C, O'Brien H, Wilson G, et al. (2025).** “Novel brain SPECT imaging unravels abnormal cerebral perfusion in patients with postural orthostatic tachycardia syndrome and cognitive dysfunction.” *Scientific Reports* 15(1):3487. doi:10.1038/s41598-025-87748-4. Fifty-six participants; abnormal cerebral blood flow in 61%, present even while supine. Imaging companion to the Van Campen work, using SPECT.
+* **Seeley M-C, O'Brien H, Wilson G, et al. (2025).** “Novel brain SPECT imaging unravels abnormal cerebral perfusion in patients with postural orthostatic tachycardia syndrome and cognitive dysfunction.” *Scientific Reports* 15(1):3487. DOI: [10.1038/s41598-025-87748-4](https://doi.org/10.1038/s41598-025-87748-4) Fifty-six participants; abnormal cerebral blood flow in 61%, present even while supine. Imaging companion to the Van Campen work, using SPECT.
 
 * **White PD et al. (2011).** “Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy, and specialist medical care for chronic fatigue syndrome (PACE): a randomised trial.” *The Lancet* 377(9768):823–836. The PACE trial, included here because the field’s relationship to it still matters; read alongside Wilshire et al. 2018.
 
@@ -250,7 +250,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Ruijgt T, Slaghekke A, Ellens A, Janssen KW, Wüst RCI (2025).** “Wearable HRV monitoring identifies autonomic dysfunction and thresholds for post-exertional malaise in Long COVID.” *medRxiv* preprint. Current work on wearable HRV data and PEM thresholds.
 
-* **Lank GK, Budhiraja S, Gaelen JI, et al. (2026).** “Characterizing Neuro-PASC outcome with the mobile Neuro-COVID recovery care companion application.” *BMC Neurology* 26(1):24. doi:10.1186/s12883-025-04577-8. Sixty-three patients on an app-based symptom tracker across three months; the improvers were the ones whose recovery scores fluctuated most.
+* **Lank GK, Budhiraja S, Gaelen JI, et al. (2026).** “Characterizing Neuro-PASC outcome with the mobile Neuro-COVID recovery care companion application.” *BMC Neurology* 26(1):24. DOI: [10.1186/s12883-025-04577-8](https://doi.org/10.1186/s12883-025-04577-8) Sixty-three patients on an app-based symptom tracker across three months; the improvers were the ones whose recovery scores fluctuated most.
 
 ---
 
@@ -267,7 +267,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 * **Shaw BH, Stiles LE, Bourne K, et al. (2019).** “The face of postural tachycardia syndrome — insights from a large cross-sectional online community-based survey.” *Journal of Internal Medicine* 286(4):438–448. Patient-survey data (n=4,835) including the 77%-misdiagnosed-as-anxiety finding the chapter references.
 
 ### Tier 2
-* **Mathew GT, Novak P. (2026).** “Prevalence of Central Sensitization in Postural Tachycardia Syndrome.” *JAMA Network Open* 9(1):e2553694. doi:10.1001/jamanetworkopen.2025.53694. Mechanism citation useful for the doctor-conversation framing around “system stuck in high alert.”
+* **Mathew GT, Novak P. (2026).** “Prevalence of Central Sensitization in Postural Tachycardia Syndrome.” *JAMA Network Open* 9(1):e2553694. DOI: [10.1001/jamanetworkopen.2025.53694](https://doi.org/10.1001/jamanetworkopen.2025.53694) Mechanism citation useful for the doctor-conversation framing around “system stuck in high alert.”
 
 * **RECOVER-AUTONOMIC Trial Network (2026).** Ivabradine arm (Group B) readout and registry at trials.recovercovid.org/autonomic-group-b. The in-progress clinical-trial landscape against which individual treatment questions can be situated.
 

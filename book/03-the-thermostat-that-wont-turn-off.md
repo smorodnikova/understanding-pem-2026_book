@@ -131,27 +131,27 @@ Catherine did this test for the first time on a Tuesday, in her bedroom, with a 
 ---
 
 ## Sources
-1. Raj SR. Postural Tachycardia Syndrome (POTS). *Circulation*. 2013;127(23):2336–2342. DOI:10.1161/CIRCULATIONAHA.112.144501
+1. Raj SR. Postural Tachycardia Syndrome (POTS). *Circulation*. 2013;127(23):2336–2342. DOI: [10.1161/CIRCULATIONAHA.112.144501](https://doi.org/10.1161/CIRCULATIONAHA.112.144501)
 
-2. Freeman R, Wieling W, et al. Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome. *Clinical Autonomic Research*. 2011;21(2):69–72. DOI:10.1007/s10286-011-0119-5 (See Chapter 4 reference 9 for the full author list.)
+2. Freeman R, Wieling W, et al. Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome. *Clinical Autonomic Research*. 2011;21(2):69–72. DOI: [10.1007/s10286-011-0119-5](https://doi.org/10.1007/s10286-011-0119-5) (See Chapter 4 reference 9 for the full author list.)
 
-3. Masuki S, Eisenach JH, Johnson CP, Dietz NM, Benrud-Larson LM, Schrage WG, Curry TB, Sandroni P, Low PA, Joyner MJ. Excessive heart rate response to orthostatic stress in postural tachycardia syndrome is not caused by anxiety. *Journal of Applied Physiology*. 2007;102(3):896–903. DOI:10.1152/japplphysiol.00927.2006
+3. Masuki S, Eisenach JH, Johnson CP, Dietz NM, Benrud-Larson LM, Schrage WG, Curry TB, Sandroni P, Low PA, Joyner MJ. Excessive heart rate response to orthostatic stress in postural tachycardia syndrome is not caused by anxiety. *Journal of Applied Physiology*. 2007;102(3):896–903. DOI: [10.1152/japplphysiol.00927.2006](https://doi.org/10.1152/japplphysiol.00927.2006)
 
-4. Shaw BH, Stiles LE, Bourne K, Green EA, Shibao CA, Okamoto LE, Garland EM, Gamboa A, Diedrich A, Raj V, et al. The face of postural tachycardia syndrome — insights from a large cross-sectional online community-based survey. *Journal of Internal Medicine*. 2019;286(4):438–448. DOI:10.1111/joim.12895
+4. Shaw BH, Stiles LE, Bourne K, Green EA, Shibao CA, Okamoto LE, Garland EM, Gamboa A, Diedrich A, Raj V, et al. The face of postural tachycardia syndrome — insights from a large cross-sectional online community-based survey. *Journal of Internal Medicine*. 2019;286(4):438–448. DOI: [10.1111/joim.12895](https://doi.org/10.1111/joim.12895)
 
-5. van Campen CLMC, Verheugt FWA, Rowe PC, Visser FC. Cerebral blood flow is reduced in ME/CFS during head-up tilt testing even in the absence of hypotension or tachycardia: a quantitative, controlled study using Doppler echography. *Clinical Neurophysiology Practice*. 2020;5:50–58. DOI:10.1016/j.cnp.2020.01.003
+5. van Campen CLMC, Verheugt FWA, Rowe PC, Visser FC. Cerebral blood flow is reduced in ME/CFS during head-up tilt testing even in the absence of hypotension or tachycardia: a quantitative, controlled study using Doppler echography. *Clinical Neurophysiology Practice*. 2020;5:50–58. DOI: [10.1016/j.cnp.2020.01.003](https://doi.org/10.1016/j.cnp.2020.01.003)
 
-6. Dani M, Dirksen A, Taraborrelli P, Torocastro M, Panagopoulos D, Sutton R, Lim PB. Autonomic dysfunction in ‘long COVID’: rationale, physiology and management strategies. *Clinical Medicine*. 2021;21(1):e63–e67. DOI:10.7861/clinmed.2020-0896
+6. Dani M, Dirksen A, Taraborrelli P, Torocastro M, Panagopoulos D, Sutton R, Lim PB. Autonomic dysfunction in ‘long COVID’: rationale, physiology and management strategies. *Clinical Medicine*. 2021;21(1):e63–e67. DOI: [10.7861/clinmed.2020-0896](https://doi.org/10.7861/clinmed.2020-0896)
 
-7. Bateman L, Bested AC, Bonilla HF, Chheda BV, Chu L, Curtin JM, Dempsey TT, Dimmock ME, Dowell TG, Felsenstein D, et al. Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Essentials of Diagnosis and Management. *Mayo Clinic Proceedings*. 2021;96(11):2861–2878. DOI:10.1016/j.mayocp.2021.07.004 (US ME/CFS Clinician Coalition / Bateman Horne Center consensus guidance)
+7. Bateman L, Bested AC, Bonilla HF, Chheda BV, Chu L, Curtin JM, Dempsey TT, Dimmock ME, Dowell TG, Felsenstein D, et al. Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Essentials of Diagnosis and Management. *Mayo Clinic Proceedings*. 2021;96(11):2861–2878. DOI: [10.1016/j.mayocp.2021.07.004](https://doi.org/10.1016/j.mayocp.2021.07.004) (US ME/CFS Clinician Coalition / Bateman Horne Center consensus guidance)
 
-8. Larsen NW, Stiles LE, Miglis MG. Preparing for the long-haul: Autonomic complications of COVID-19. *Autonomic Neuroscience*. 2021;235:102841. DOI:10.1016/j.autneu.2021.102841
+8. Larsen NW, Stiles LE, Miglis MG. Preparing for the long-haul: Autonomic complications of COVID-19. *Autonomic Neuroscience*. 2021;235:102841. DOI: [10.1016/j.autneu.2021.102841](https://doi.org/10.1016/j.autneu.2021.102841)
 
-9. Badran BW, Huffman SM, Dancy M, Austelle CW, Bikson M, Kautz SA, George MS. A pilot randomized controlled trial of supervised, at-home, self-administered transcutaneous auricular vagus nerve stimulation (taVNS) to manage long COVID symptoms. *Bioelectronic Medicine*. 2022;8(1):13. DOI:10.1186/s42234-022-00094-y
+9. Badran BW, Huffman SM, Dancy M, Austelle CW, Bikson M, Kautz SA, George MS. A pilot randomized controlled trial of supervised, at-home, self-administered transcutaneous auricular vagus nerve stimulation (taVNS) to manage long COVID symptoms. *Bioelectronic Medicine*. 2022;8(1):13. DOI: [10.1186/s42234-022-00094-y](https://doi.org/10.1186/s42234-022-00094-y)
 
 10. Corrado J, Iftekhar N, Halpin S, Li M, Tarrant R, Grimaldi J, Simms A, O’Connor RJ, Casson A, Sivan M. Heart Rate Variability Biofeedback for Long COVID Dysautonomia (HEARTLOC): Results of a Feasibility Study. *Advances in Rehabilitation Science and Practice*. 2024;13. PMCID: PMC10826406.
 
-11. Mauro M, Cegolon L, Bestiaco N, Zulian E, Filon FL. Heart Rate Variability Modulation Through Slow-Paced Breathing in Health Care Workers with Long COVID: A Case-Control Study. *The American Journal of Medicine*. 2025\. doi: 10.1016/j.amjmed.2024.05.021
+11. Mauro M, Cegolon L, Bestiaco N, Zulian E, Filon FL. Heart Rate Variability Modulation Through Slow-Paced Breathing in Health Care Workers with Long COVID: A Case-Control Study. *The American Journal of Medicine*. 2025\. DOI: [10.1016/j.amjmed.2024.05.021](https://doi.org/10.1016/j.amjmed.2024.05.021)
 
 ---
 

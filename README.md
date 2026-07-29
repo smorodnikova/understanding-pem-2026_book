@@ -33,8 +33,8 @@ conditions with post-exertional malaise — and the people who care for them.
 - **[Online, chapter by chapter](book/)** — every chapter is a separate file
 - **Download:**
 
-- [PDF for reading on screen (A4)](downloads/understanding-pem-2026-screen-a4.pdf) — 2.8 MB
-- [PDF for printing (6×9 in)](downloads/understanding-pem-2026-print-6x9.pdf) — 2.9 MB
+- [PDF for reading on screen (A4)](downloads/understanding-pem-2026-screen-a4.pdf) — 2.9 MB
+- [PDF for printing (6×9 in)](downloads/understanding-pem-2026-print-6x9.pdf) — 3.0 MB
 - [EPUB for Apple Books, Kobo, Google Play Books](downloads/understanding-pem-2026.epub) — 1.4 MB
 - [EPUB optimised for Kindle](downloads/understanding-pem-2026-kindle.epub) — 1.9 MB
 

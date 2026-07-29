@@ -129,23 +129,23 @@ What you’re building is a map of the lag between effort and consequence. That 
 ---
 
 ## Sources
-1. Singh I, Joseph P, Heerdt PM, Cullinan M, Lutchmansingh DD, Gulati M, Possick JD, Systrom DM, Waxman AB. Persistent Exertional Intolerance After COVID-19: Insights From Invasive Cardiopulmonary Exercise Testing. *Chest*. 2022;161(1):54–63. DOI:10.1016/j.chest.2021.08.010
+1. Singh I, Joseph P, Heerdt PM, Cullinan M, Lutchmansingh DD, Gulati M, Possick JD, Systrom DM, Waxman AB. Persistent Exertional Intolerance After COVID-19: Insights From Invasive Cardiopulmonary Exercise Testing. *Chest*. 2022;161(1):54–63. DOI: [10.1016/j.chest.2021.08.010](https://doi.org/10.1016/j.chest.2021.08.010)
 
-2. Durstenfeld MS, Sun K, Tahir P, Peluso MJ, Deeks SG, Aras MA, Grandis DJ, Long CS, Beatty A, Hsue PY. Use of Cardiopulmonary Exercise Testing to Evaluate Long COVID-19 Symptoms in Adults: A Systematic Review and Meta-analysis. *JAMA Network Open*. 2022;5(10):e2236057. DOI:10.1001/jamanetworkopen.2022.36057
+2. Durstenfeld MS, Sun K, Tahir P, Peluso MJ, Deeks SG, Aras MA, Grandis DJ, Long CS, Beatty A, Hsue PY. Use of Cardiopulmonary Exercise Testing to Evaluate Long COVID-19 Symptoms in Adults: A Systematic Review and Meta-analysis. *JAMA Network Open*. 2022;5(10):e2236057. DOI: [10.1001/jamanetworkopen.2022.36057](https://doi.org/10.1001/jamanetworkopen.2022.36057)
 
-3. Keller BA, Pryor JL, Giloteaux L. Inability of myalgic encephalomyelitis/chronic fatigue syndrome patients to reproduce VO₂peak indicates functional impairment. *Journal of Translational Medicine*. 2014;12:104. (Updated series from the Workwell Foundation group, including Stevens S, Davenport T, Snell C, Van Ness JM.) DOI:10.1186/1479-5876-12-104
+3. Keller BA, Pryor JL, Giloteaux L. Inability of myalgic encephalomyelitis/chronic fatigue syndrome patients to reproduce VO₂peak indicates functional impairment. *Journal of Translational Medicine*. 2014;12:104. (Updated series from the Workwell Foundation group, including Stevens S, Davenport T, Snell C, Van Ness JM.) DOI: [10.1186/1479-5876-12-104](https://doi.org/10.1186/1479-5876-12-104)
 
-4. Stevens S, Snell C, Stevens J, Keller B, Van Ness JM. Cardiopulmonary exercise test methodology for assessing exertion intolerance in myalgic encephalomyelitis/chronic fatigue syndrome. *Frontiers in Pediatrics*. 2018;6:242. DOI:10.3389/fped.2018.00242
+4. Stevens S, Snell C, Stevens J, Keller B, Van Ness JM. Cardiopulmonary exercise test methodology for assessing exertion intolerance in myalgic encephalomyelitis/chronic fatigue syndrome. *Frontiers in Pediatrics*. 2018;6:242. DOI: [10.3389/fped.2018.00242](https://doi.org/10.3389/fped.2018.00242)
 
 5. National Institute for Health and Care Excellence. *Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management* (NICE guideline NG206). London: NICE; 2021\. [https://www.nice.org.uk/guidance/ng206](https://www.nice.org.uk/guidance/ng206)
 
-6. Stein SR, Ramelli SC, Grazioli A, Chung JY, Singh M, Yinda CK, Winkler CW, Sun J, Dickey JM, Ylaya K, et al. SARS-CoV-2 infection and persistence in the human body and brain at autopsy. *Nature*. 2022;612(7941):758–763. DOI:10.1038/s41586-022-05542-y
+6. Stein SR, Ramelli SC, Grazioli A, Chung JY, Singh M, Yinda CK, Winkler CW, Sun J, Dickey JM, Ylaya K, et al. SARS-CoV-2 infection and persistence in the human body and brain at autopsy. *Nature*. 2022;612(7941):758–763. DOI: [10.1038/s41586-022-05542-y](https://doi.org/10.1038/s41586-022-05542-y)
 
-7. Davis HE, Assaf GS, McCorkell L, Wei H, Low RJ, Re’em Y, Redfield S, Austin JP, Akrami A. Characterizing long COVID in an international cohort: 7 months of symptoms and their impact. *EClinicalMedicine*. 2021;38:101019. DOI:10.1016/j.eclinm.2021.101019
+7. Davis HE, Assaf GS, McCorkell L, Wei H, Low RJ, Re’em Y, Redfield S, Austin JP, Akrami A. Characterizing long COVID in an international cohort: 7 months of symptoms and their impact. *EClinicalMedicine*. 2021;38:101019. DOI: [10.1016/j.eclinm.2021.101019](https://doi.org/10.1016/j.eclinm.2021.101019)
 
-8. Nalbandian A, Sehgal K, Gupta A, Madhavan MV, McGroder C, Stevens JS, Cook JR, Nordvig AS, Shalev D, Sehrawat TS, et al. Post-acute COVID-19 syndrome. *Nature Medicine*. 2021;27(4):601–615. DOI:10.1038/s41591-021-01283-9
+8. Nalbandian A, Sehgal K, Gupta A, Madhavan MV, McGroder C, Stevens JS, Cook JR, Nordvig AS, Shalev D, Sehrawat TS, et al. Post-acute COVID-19 syndrome. *Nature Medicine*. 2021;27(4):601–615. DOI: [10.1038/s41591-021-01283-z](https://doi.org/10.1038/s41591-021-01283-z)
 
-9. Swank Z, Senussi Y, Manickas-Hill Z, Yu XG, Li JZ, Alter G, Walt DR. Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae. *Clinical Infectious Diseases*. 2023;76(3):e487–e490. DOI:10.1093/cid/ciac722
+9. Swank Z, Senussi Y, Manickas-Hill Z, Yu XG, Li JZ, Alter G, Walt DR. Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae. *Clinical Infectious Diseases*. 2023;76(3):e487–e490. DOI: [10.1093/cid/ciac722](https://doi.org/10.1093/cid/ciac722)
 
 ---
 
