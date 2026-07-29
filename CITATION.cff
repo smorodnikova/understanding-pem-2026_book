@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you cite this work, please use the metadata below."
+type: book
+title: "Understanding PEM: What the Research Says in 2026"
+subtitle: "The Manual Your Body Didn't Come With"
+authors:
+  - family-names: Smorodnikova
+    given-names: Jane
+year: 2026
+publisher:
+  name: Welltory
+url: "https://github.com/smorodnikova/understanding-pem-2026_book"
+license: CC-BY-NC-ND-4.0
+keywords:
+  - post-exertional malaise
+  - Long COVID
+  - "ME/CFS"
+  - POTS
+  - dysautonomia
