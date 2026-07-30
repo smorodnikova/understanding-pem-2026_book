@@ -16,7 +16,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 ### Tier 1
 * **Callard F, Perego E (2021).** “How and why patients made Long Covid.” *Social Science & Medicine* 268:113426. The founding historical record of how patients organised the term “Long COVID” into existence in spring 2020, before any institution used the phrase.
 
-* **Davis HE, Assaf GS, McCorkell L, et al. (2021).** “Characterizing Long COVID in an international cohort: 7 months of symptoms and their impact.” *EClinicalMedicine* 38:101019. The first large patient-led survey characterising the symptom set across 3,762 respondents and 203 distinct symptoms; anchor citation for the book’s patient-science framing.
+* **Davis HE, Assaf GS, McCorkell L, et al. (2021).** “Characterizing Long COVID in an international cohort: 7 months of symptoms and their impact.” *EClinicalMedicine* 38:101019. DOI: [10.1016/j.eclinm.2021.101019](https://doi.org/10.1016/j.eclinm.2021.101019) The first large patient-led survey characterising the symptom set across 3,762 respondents and 203 distinct symptoms; anchor citation for the book’s patient-science framing.
 
 * **Institute of Medicine, Committee on the Diagnostic Criteria for ME/CFS (2015).** *Beyond Myalgic Encephalomyelitis / Chronic Fatigue Syndrome: Redefining an Illness.* Washington, DC: National Academies Press. The report that named post-exertional malaise as the cardinal feature rather than an optional symptom; foundation of current diagnostic frameworks.
 
@@ -31,22 +31,22 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 ## Chapter 1 — Fatigue is not the right word
 ### Tier 1
-* **Singh I, Joseph P, Heerdt PM, Cullinan M, Lutchmansingh DD, Gulati M, Possick JD, Systrom DM, Waxman AB (2022).** “Persistent exertional intolerance after COVID-19: insights from invasive cardiopulmonary exercise testing.” *Chest* 161(1):54–63. Invasive CPET in post-acute LC showing impaired peripheral oxygen extraction at near-normal cardiac output — the muscle-side metabolic lesion that undergirds the whole chapter.
+* **Singh I, Joseph P, Heerdt PM, Cullinan M, Lutchmansingh DD, Gulati M, Possick JD, Systrom DM, Waxman AB (2022).** “Persistent exertional intolerance after COVID-19: insights from invasive cardiopulmonary exercise testing.” *Chest* 161(1):54–63. DOI: [10.1016/j.chest.2021.08.010](https://doi.org/10.1016/j.chest.2021.08.010) Invasive CPET in post-acute LC showing impaired peripheral oxygen extraction at near-normal cardiac output — the muscle-side metabolic lesion that undergirds the whole chapter.
 
-* **Durstenfeld MS, Sun K, Tahir P, et al. (2022).** “Use of cardiopulmonary exercise testing to evaluate Long COVID-19 symptoms in adults: a systematic review and meta-analysis.” *JAMA Network Open* 5(10):e2236057. Pooled CPET analysis confirming reduced exercise capacity across LC cohorts independent of resting cardiopulmonary function.
+* **Durstenfeld MS, Sun K, Tahir P, et al. (2022).** “Use of cardiopulmonary exercise testing to evaluate Long COVID-19 symptoms in adults: a systematic review and meta-analysis.” *JAMA Network Open* 5(10):e2236057. DOI: [10.1001/jamanetworkopen.2022.36057](https://doi.org/10.1001/jamanetworkopen.2022.36057) Pooled CPET analysis confirming reduced exercise capacity across LC cohorts independent of resting cardiopulmonary function.
 
-* **Keller BA, Pryor JL, Giloteaux L (2014).** “Inability of Myalgic Encephalomyelitis / Chronic Fatigue Syndrome patients to reproduce VO₂peak indicates functional impairment.” *Journal of Translational Medicine* 12:104. The Workwell Foundation two-day CPET work showing the day-2 drop that is one of the most specific objective signatures of PEM.
+* **Keller BA, Pryor JL, Giloteaux L (2014).** “Inability of Myalgic Encephalomyelitis / Chronic Fatigue Syndrome patients to reproduce VO₂peak indicates functional impairment.” *Journal of Translational Medicine* 12:104. DOI: [10.1186/1479-5876-12-104](https://doi.org/10.1186/1479-5876-12-104) The Workwell Foundation two-day CPET work showing the day-2 drop that is one of the most specific objective signatures of PEM.
 
-* **Stevens S, Snell C, Stevens J, Keller B, Van Ness JM (2018).** “Cardiopulmonary exercise test methodology for assessing exertion intolerance in ME/CFS.” *Frontiers in Pediatrics* 6:242. The practical manual for how to run the two-day CPET without harming the patient.
+* **Stevens S, Snell C, Stevens J, Keller B, Van Ness JM (2018).** “Cardiopulmonary exercise test methodology for assessing exertion intolerance in ME/CFS.” *Frontiers in Pediatrics* 6:242. DOI: [10.3389/fped.2018.00242](https://doi.org/10.3389/fped.2018.00242) The practical manual for how to run the two-day CPET without harming the patient.
 
-* **Swank Z, Senussi Y, Manickas-Hill Z, Yu XG, Li JZ, Alter G, Walt DR (2023).** “Persistent circulating SARS-CoV-2 spike is associated with post-acute COVID-19 sequelae.” *Clinical Infectious Diseases* 76(3):e487–e490. The paper that names the molecular hook behind “viral persistence” — spike fragments still circulating months after acute infection.
+* **Swank Z, Senussi Y, Manickas-Hill Z, Yu XG, Li JZ, Alter G, Walt DR (2023).** “Persistent circulating SARS-CoV-2 spike is associated with post-acute COVID-19 sequelae.” *Clinical Infectious Diseases* 76(3):e487–e490. DOI: [10.1093/cid/ciac722](https://doi.org/10.1093/cid/ciac722) The paper that names the molecular hook behind “viral persistence” — spike fragments still circulating months after acute infection.
 
 * **National Institute for Health and Care Excellence (2021).** *Myalgic encephalomyelitis (or encephalopathy) / chronic fatigue syndrome: diagnosis and management* (NG206). The current UK clinical guideline, relevant for PEM definition, harm caution around graded exercise, and pacing as first-line activity management.
 
 ### Tier 2
-* **Nalbandian A, Sehgal K, Gupta A, et al. (2021).** “Post-acute COVID-19 syndrome.” *Nature Medicine* 27(4):601–615. Clinical overview of organ-system manifestations during the early LC literature.
+* **Nalbandian A, Sehgal K, Gupta A, et al. (2021).** “Post-acute COVID-19 syndrome.” *Nature Medicine* 27(4):601–615. DOI: [10.1038/s41591-021-01283-z](https://doi.org/10.1038/s41591-021-01283-z) Clinical overview of organ-system manifestations during the early LC literature.
 
-* **Stein SR, Ramelli SC, Grazioli A, et al. (2022).** “SARS-CoV-2 infection and persistence in the human body and brain at autopsy.” *Nature* 612(7941):758–763. Autopsy data confirming widespread viral persistence in tissues beyond the respiratory tract.
+* **Stein SR, Ramelli SC, Grazioli A, et al. (2022).** “SARS-CoV-2 infection and persistence in the human body and brain at autopsy.” *Nature* 612(7941):758–763. DOI: [10.1038/s41586-022-05542-y](https://doi.org/10.1038/s41586-022-05542-y) Autopsy data confirming widespread viral persistence in tissues beyond the respiratory tract.
 
 * **Peter RS, Nieters A, Göpel S, et al. (2025).** “Post-COVID-19 condition: characteristics and natural course in a large German cohort — the EPILOC Phase 2 study.” *PLoS Medicine* 22(1):e1004511. Prospective n=1,154 cohort with CPET and cognitive testing; useful companion read on LC phenotyping.
 
@@ -54,24 +54,24 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 ## Chapter 2 — The thermostat that won’t turn off
 ### Tier 1
-* **Raj SR (2013).** “Postural tachycardia syndrome (POTS).” *Circulation* 127(23):2336–2342. Compact clinical review of POTS that establishes diagnostic criteria, subtypes, and first-line management.
+* **Raj SR (2013).** “Postural tachycardia syndrome (POTS).” *Circulation* 127(23):2336–2342. DOI: [10.1161/CIRCULATIONAHA.112.144501](https://doi.org/10.1161/CIRCULATIONAHA.112.144501) Compact clinical review of POTS that establishes diagnostic criteria, subtypes, and first-line management.
 
-* **Freeman R, Wieling W, Axelrod FB, et al. (2011).** “Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome.” *Clinical Autonomic Research* 21(2):69–72. The diagnostic-threshold document the book leans on for HR-rise and BP-drop numbers.
+* **Freeman R, Wieling W, Axelrod FB, et al. (2011).** “Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome.” *Clinical Autonomic Research* 21(2):69–72. DOI: [10.1007/s10286-011-0119-5](https://doi.org/10.1007/s10286-011-0119-5) The diagnostic-threshold document the book leans on for HR-rise and BP-drop numbers.
 
-* **Dani M, Dirksen A, Taraborrelli P, et al. (2021).** “Autonomic dysfunction in ‘long COVID’: rationale, physiology and management strategies.” *Clinical Medicine* 21(1):e63–e67. Bridges POTS-literature to LC and articulates why the autonomic lens changed the picture.
+* **Dani M, Dirksen A, Taraborrelli P, et al. (2021).** “Autonomic dysfunction in ‘long COVID’: rationale, physiology and management strategies.” *Clinical Medicine* 21(1):e63–e67. DOI: [10.7861/clinmed.2020-0896](https://doi.org/10.7861/clinmed.2020-0896) Bridges POTS-literature to LC and articulates why the autonomic lens changed the picture.
 
-* **Bateman L, Bested AC, Bonilla HF, et al. (2021).** “Myalgic encephalomyelitis / chronic fatigue syndrome: essentials of diagnosis and management.” *Mayo Clinic Proceedings* 96(11):2861–2878. US ME/CFS Clinician Coalition / Bateman Horne Center consensus — the clinical-care guide the book cross-references for HUA and pacing.
+* **Bateman L, Bested AC, Bonilla HF, et al. (2021).** “Myalgic encephalomyelitis / chronic fatigue syndrome: essentials of diagnosis and management.” *Mayo Clinic Proceedings* 96(11):2861–2878. DOI: [10.1016/j.mayocp.2021.07.004](https://doi.org/10.1016/j.mayocp.2021.07.004) US ME/CFS Clinician Coalition / Bateman Horne Center consensus — the clinical-care guide the book cross-references for HUA and pacing.
 
-* **Larsen NW, Stiles LE, Miglis MG (2021).** “Preparing for the long-haul: autonomic complications of COVID-19.” *Autonomic Neuroscience* 235:102841. Expert overview of how POTS-like dysautonomia manifests after COVID; readable for a motivated non-specialist.
+* **Larsen NW, Stiles LE, Miglis MG (2021).** “Preparing for the long-haul: autonomic complications of COVID-19.” *Autonomic Neuroscience* 235:102841. DOI: [10.1016/j.autneu.2021.102841](https://doi.org/10.1016/j.autneu.2021.102841) Expert overview of how POTS-like dysautonomia manifests after COVID; readable for a motivated non-specialist.
 
 ### Tier 2
-* **Shaw BH, Stiles LE, Bourne K, et al. (2019).** “The face of postural tachycardia syndrome — insights from a large cross-sectional online community-based survey.” *Journal of Internal Medicine* 286(4):438–448. Patient-survey data (n=4,835) showing that 77% of POTS patients were initially told they had an anxiety disorder — the statistical anchor under the chapter’s “system stuck in high alert” frame.
+* **Shaw BH, Stiles LE, Bourne K, et al. (2019).** “The face of postural tachycardia syndrome — insights from a large cross-sectional online community-based survey.” *Journal of Internal Medicine* 286(4):438–448. DOI: [10.1111/joim.12895](https://doi.org/10.1111/joim.12895) Patient-survey data (n=4,835) showing that 77% of POTS patients were initially told they had an anxiety disorder — the statistical anchor under the chapter’s “system stuck in high alert” frame.
 
-* **Badran BW, Huffman SM, Dancy M, et al. (2022).** “Supervised, at-home, self-administered transcutaneous auricular vagus nerve stimulation to manage long COVID symptoms: a pilot randomized controlled trial.” *Bioelectronic Medicine* 8(1):13. Device-literature taVNS pilot; grounding for the “medical-device research is separate from wellness marketing” discussion.
+* **Badran BW, Huffman SM, Dancy M, et al. (2022).** “Supervised, at-home, self-administered transcutaneous auricular vagus nerve stimulation to manage long COVID symptoms: a pilot randomized controlled trial.” *Bioelectronic Medicine* 8(1):13. DOI: [10.1186/s42234-022-00094-y](https://doi.org/10.1186/s42234-022-00094-y) Device-literature taVNS pilot; grounding for the “medical-device research is separate from wellness marketing” discussion.
 
 * **Corrado J, Iftekhar N, Halpin S, et al. (2024).** “Heart rate variability biofeedback for Long COVID dysautonomia: results of a feasibility study (HEARTLOC).” *Advances in Rehabilitation Science and Practice* 13\. HRV-biofeedback feasibility data in LC dysautonomia.
 
-* **Mauro M, Cegolon L, Bestiaco N, Zulian E, Larese Filon F (2024).** “Heart rate variability modulation through slow-paced breathing in health care workers with Long COVID.” *American Journal of Medicine*. Case-control study on slow-paced breathing; low-cost intervention evidence.
+* **Mauro M, Cegolon L, Bestiaco N, Zulian E, Larese Filon F (2024).** “Heart rate variability modulation through slow-paced breathing in health care workers with Long COVID.” *American Journal of Medicine*. DOI: [10.1016/j.amjmed.2024.05.021](https://doi.org/10.1016/j.amjmed.2024.05.021) Case-control study on slow-paced breathing; low-cost intervention evidence.
 
 ---
 
@@ -79,20 +79,20 @@ Patient-led research is flagged where it appears. This body of work is not an af
 ### Tier 1
 * **Mathew GT, Novak P. (2026).** “Prevalence of Central Sensitization in Postural Tachycardia Syndrome.” *JAMA Network Open* 9(1):e2553694. DOI: [10.1001/jamanetworkopen.2025.53694](https://doi.org/10.1001/jamanetworkopen.2025.53694) Case-control study of 305 patients with confirmed POTS; 264 (86.6%) met criteria for central sensitization syndrome. Underpins the “same underlying process, many diagnostic labels” frame.
 
-* **Weinstock LB, Brook JB, Walters AS, Goris A, Afrin LB, Molderings GJ (2021).** “Mast cell activation symptoms are prevalent in long-COVID.” *International Journal of Infectious Diseases* 112:217–226. Compares LC symptom patterns to MCAS symptom patterns; the source the chapter’s mast-cell paragraph rests on, with corrected reading that the paper reports severity and symptom-count overlap rather than a prevalence percentage.
+* **Weinstock LB, Brook JB, Walters AS, Goris A, Afrin LB, Molderings GJ (2021).** “Mast cell activation symptoms are prevalent in long-COVID.” *International Journal of Infectious Diseases* 112:217–226. DOI: [10.1016/j.ijid.2021.09.043](https://doi.org/10.1016/j.ijid.2021.09.043) Compares LC symptom patterns to MCAS symptom patterns; the source the chapter’s mast-cell paragraph rests on, with corrected reading that the paper reports severity and symptom-count overlap rather than a prevalence percentage.
 
-* **Miller AJ, Stiles LE, Sheehan T, et al. (2020).** “Prevalence of hypermobile Ehlers-Danlos syndrome in postural orthostatic tachycardia syndrome.” *Autonomic Neuroscience* 224:102637. The 31% hEDS-in-POTS statistic and what it means for the connective-tissue-plus-autonomic picture.
+* **Miller AJ, Stiles LE, Sheehan T, et al. (2020).** “Prevalence of hypermobile Ehlers-Danlos syndrome in postural orthostatic tachycardia syndrome.” *Autonomic Neuroscience* 224:102637. DOI: [10.1016/j.autneu.2020.102637](https://doi.org/10.1016/j.autneu.2020.102637) The 31% hEDS-in-POTS statistic and what it means for the connective-tissue-plus-autonomic picture.
 
-* **Khalsa SS, Adolphs R, Cameron OG, et al. (2018).** “Interoception and mental health: a roadmap.” *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* 3(6):501–513. Accessible anatomical anchor for “interoceptive mismatch” — the insular cortex, and why the body’s report is accurate even when the input has changed.
+* **Khalsa SS, Adolphs R, Cameron OG, et al. (2018).** “Interoception and mental health: a roadmap.” *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging* 3(6):501–513. DOI: [10.1016/j.bpsc.2017.12.004](https://doi.org/10.1016/j.bpsc.2017.12.004) Accessible anatomical anchor for “interoceptive mismatch” — the insular cortex, and why the body’s report is accurate even when the input has changed.
 
 * **Salvucci F, Codella R, Coppola A, Zacchei I, et al. (2023).** “Antihistamines improve cardiovascular manifestations and other symptoms of long-COVID attributed to mast cell activation.” *Frontiers in Cardiovascular Medicine* 10:1202696. DOI: [10.3389/fcvm.2023.1202696](https://doi.org/10.3389/fcvm.2023.1202696) Fourteen treated patients against thirteen controls; complete resolution in 29%. Small and open-label — Open-label n=27 of fexofenadine plus famotidine at standard doses; roughly one-third of patients showed full resolution. Small, non-randomised, clinician-supervised territory — included because the pairing appears in current clinical practice and is referenced directly in-chapter.
 
-* **Vernino S, Hopkins S, Bryarly M, et al. (2024).** “Randomized controlled trial of intravenous immunoglobulin for autoimmune POTS (iSTAND).” *Clinical Autonomic Research* 34(1):153–163. The first placebo-controlled IVIg trial in autoimmune POTS; neutral primary endpoint, and the anchor of the book’s hedged IVIg paragraph.
+* **Vernino S, Hopkins S, Bryarly M, et al. (2024).** “Randomized controlled trial of intravenous immunoglobulin for autoimmune POTS (iSTAND).” *Clinical Autonomic Research* 34(1):153–163. DOI: [10.1007/s10286-024-01020-9](https://doi.org/10.1007/s10286-024-01020-9) The first placebo-controlled IVIg trial in autoimmune POTS; neutral primary endpoint, and the anchor of the book’s hedged IVIg paragraph.
 
 ### Tier 2
-* **Oaklander AL, Herzog ZD, Downs HM, Klein MM (2013).** “Objective evidence that small-fiber polyneuropathy underlies some illnesses currently labeled as fibromyalgia.” *Pain* 154(11):2310–2316. The small-fibre-neuropathy overlap with fibromyalgia.
+* **Oaklander AL, Herzog ZD, Downs HM, Klein MM (2013).** “Objective evidence that small-fiber polyneuropathy underlies some illnesses currently labeled as fibromyalgia.” *Pain* 154(11):2310–2316. DOI: [10.1016/j.pain.2013.06.001](https://doi.org/10.1016/j.pain.2013.06.001) The small-fibre-neuropathy overlap with fibromyalgia.
 
-* **Ray JC, Pham X, Foster E, et al. (2022).** “The prevalence of headache disorders in postural tachycardia syndrome: a systematic review and meta-analysis.” *Cephalalgia* 42(11–12):1274–1287. Headache co-occurrence with POTS.
+* **Ray JC, Pham X, Foster E, et al. (2022).** “The prevalence of headache disorders in postural tachycardia syndrome: a systematic review and meta-analysis.” *Cephalalgia* 42(11–12):1274–1287. DOI: [10.1177/03331024221095153](https://doi.org/10.1177/03331024221095153) Headache co-occurrence with POTS.
 
 * **Sjögren P, Bragée B, Britton S (2024).** “Successful subcutaneous immunoglobulin therapy in a case series of patients with ME/CFS.” *Clinical Therapeutics* 46(7):597–600. Case-series signal for subcutaneous Ig in ME/CFS.
 
@@ -100,32 +100,32 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **McAlpine L, Zubair AS, Joseph P, Spudich S (2024).** “Case-control study of individuals with small fiber neuropathy after COVID-19.” *Neurology Neuroimmunology & Neuroinflammation* 11(3):e200244. Small-fibre neuropathy identified in a defined post-COVID subgroup.
 
-* **Ayoubkhani D, Bermingham C, Pouwels KB, et al. (2022).** “Trajectory of long covid symptoms after covid-19 vaccination: community based cohort study.” *BMJ* 377:e069676. Cohort evidence on post-vaccination LC symptom course.
+* **Ayoubkhani D, Bermingham C, Pouwels KB, et al. (2022).** “Trajectory of long covid symptoms after covid-19 vaccination: community based cohort study.” *BMJ* 377:e069676. DOI: [10.1136/bmj-2021-069676](https://doi.org/10.1136/bmj-2021-069676) Cohort evidence on post-vaccination LC symptom course.
 
-* **Bowe B, Xie Y, Al-Aly Z (2022).** “Acute and postacute sequelae associated with SARS-CoV-2 reinfection.” *Nature Medicine* 28(11):2398–2405. Cumulative risk with successive infections; relevant for the chapter’s reinfection paragraph.
+* **Bowe B, Xie Y, Al-Aly Z (2022).** “Acute and postacute sequelae associated with SARS-CoV-2 reinfection.” *Nature Medicine* 28(11):2398–2405. DOI: [10.1038/s41591-022-02051-3](https://doi.org/10.1038/s41591-022-02051-3) Cumulative risk with successive infections; relevant for the chapter’s reinfection paragraph.
 
 ---
 
 ## Chapter 4 — Why standing is harder than walking
 ### Tier 1
-* **Thieben MJ, Sandroni P, Sletten DM, et al. (2007).** “Postural orthostatic tachycardia syndrome: the Mayo Clinic experience.” *Mayo Clinic Proceedings* 82(3):308–313. Clinical description of POTS subtypes as the Mayo group worked them out; useful for the neuropathic / hyperadrenergic / hypovolemic / autoimmune split.
+* **Thieben MJ, Sandroni P, Sletten DM, et al. (2007).** “Postural orthostatic tachycardia syndrome: the Mayo Clinic experience.” *Mayo Clinic Proceedings* 82(3):308–313. DOI: [10.4065/82.3.308](https://doi.org/10.4065/82.3.308) Clinical description of POTS subtypes as the Mayo group worked them out; useful for the neuropathic / hyperadrenergic / hypovolemic / autoimmune split.
 
 * **Fu Q, VanGundy TB, Galbreath MM, et al. (2010).** “Cardiac origins of the postural orthostatic tachycardia syndrome.” *Journal of the American College of Cardiology* 55(25):2858–2868. DOI: [10.1016/j.jacc.2010.02.043](https://doi.org/10.1016/j.jacc.2010.02.043) Twenty-seven patients against sixteen controls; blood and plasma volume about a fifth lower, left-ventricular mass about 16% smaller. Characterises the reduced stroke volume and cardiac-reserve side of POTS — a companion to the peripheral-pooling picture.
 
-* **Haensch C-A, Tosch M, Katona I, Weis J, Isenmann S (2014).** “Small-fiber neuropathy with cardiac denervation in postural tachycardia syndrome.” *Muscle & Nerve* 50(6):956–961. The anatomical hook under the neuropathic POTS subtype.
+* **Haensch C-A, Tosch M, Katona I, Weis J, Isenmann S (2014).** “Small-fiber neuropathy with cardiac denervation in postural tachycardia syndrome.” *Muscle & Nerve* 50(6):956–961. DOI: [10.1002/mus.24245](https://doi.org/10.1002/mus.24245) The anatomical hook under the neuropathic POTS subtype.
 
 * **Uppal J, Baker JR, Hira R, et al. (2025).** “Physiological and clinical comparison of active stand and head-up tilt tests in Postural Orthostatic Tachycardia Syndrome (POTS).” *Autonomic Neuroscience* 260:103281. DOI: [10.1016/j.autneu.2025.103281](https://doi.org/10.1016/j.autneu.2025.103281) Sixty patients did both tests on the same day. Hemodynamic trajectories were broadly similar, but 74% met the POTS heart-rate criterion on active stand against 98% on tilt. Read it for the limit as much as for the ground for the NASA Lean Test home-equivalent.
 
 * **Bateman Horne Center.** *NASA Lean Test Instructions.* Patient handout. The protocol Ch 04 and Ch 05 use directly; a one-page procedure any reader can run at home.
 
 ### Tier 2
-* **Benarroch EE (2012).** “Postural tachycardia syndrome: a heterogeneous and multifactorial disorder.” *Mayo Clinic Proceedings* 87(12):1214–1225. Mechanism review — useful if the subtype split raises more questions.
+* **Benarroch EE (2012).** “Postural tachycardia syndrome: a heterogeneous and multifactorial disorder.” *Mayo Clinic Proceedings* 87(12):1214–1225. DOI: [10.1016/j.mayocp.2012.08.013](https://doi.org/10.1016/j.mayocp.2012.08.013) Mechanism review — useful if the subtype split raises more questions.
 
-* **Garland EM, Celedonio JE, Raj SR (2015).** “Postural tachycardia syndrome: beyond orthostatic intolerance.” *Current Neurology and Neuroscience Reports* 15(9):60. Symptoms beyond the heart-rate response.
+* **Garland EM, Celedonio JE, Raj SR (2015).** “Postural tachycardia syndrome: beyond orthostatic intolerance.” *Current Neurology and Neuroscience Reports* 15(9):60. DOI: [10.1007/s11910-015-0583-8](https://doi.org/10.1007/s11910-015-0583-8) Symptoms beyond the heart-rate response.
 
 * **Fu Q, Levine BD (2018).** “Exercise and non-pharmacological treatment of postural orthostatic tachycardia syndrome.” *Autonomic Neuroscience* 215:20–27. Graded reconditioning protocol — for readers whose clinician brings it up; read alongside the Ch 06 pacing caveats.
 
-* **Wallukat G, Hohberger B, Wenzel K, et al. (2021).** “Functional autoantibodies against G-protein coupled receptors in patients with persistent Long-COVID-19 symptoms.” *Journal of Translational Autoimmunity* 4:100100. Autoimmune POTS biomarker evidence.
+* **Wallukat G, Hohberger B, Wenzel K, et al. (2021).** “Functional autoantibodies against G-protein coupled receptors in patients with persistent Long-COVID-19 symptoms.” *Journal of Translational Autoimmunity* 4:100100. DOI: [10.1016/j.jtauto.2021.100100](https://doi.org/10.1016/j.jtauto.2021.100100) Autoimmune POTS biomarker evidence.
 
 * **Medinger G, Altmann D (2022).** *The Long COVID Handbook.* London: Hutchinson Heinemann. Patient-plus-researcher co-authored overview, including the Imperial College autonomic work; repeatedly useful across the book.
 
@@ -133,7 +133,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 ## Chapter 5 — Tools that work every day
 ### Tier 1
-* **Vernino S, Bourne KM, Stiles LE, et al. (2021).** “Postural orthostatic tachycardia syndrome (POTS): State of the science and clinical care from a 2019 NIH Expert Consensus Meeting — Part 1.” *Autonomic Neuroscience* 235:102828. The consensus that sets the sodium range at 3–10 g daily and says the optimal dose is unsettled. Practical first-line management review that the tools chapter leans on for salt-loading, compression, ivabradine, midodrine, and pyridostigmine.
+* **Vernino S, Bourne KM, Stiles LE, et al. (2021).** “Postural orthostatic tachycardia syndrome (POTS): State of the science and clinical care from a 2019 NIH Expert Consensus Meeting — Part 1.” *Autonomic Neuroscience* 235:102828. DOI: [10.1161/CIRCULATIONAHA.112.144501](https://doi.org/10.1161/CIRCULATIONAHA.112.144501) The consensus that sets the sodium range at 3–10 g daily and says the optimal dose is unsettled. Practical first-line management review that the tools chapter leans on for salt-loading, compression, ivabradine, midodrine, and pyridostigmine.
 
 * **Sheldon RS, Grubb BP, Olshansky B, et al. (2015).** “2015 Heart Rhythm Society expert consensus statement on the diagnosis and treatment of postural tachycardia syndrome, inappropriate sinus tachycardia, and vasovagal syncope.” *Heart Rhythm* 12(6):e41–e63. The consensus the chapter’s beta-blocker and ivabradine paragraphs track.
 
@@ -144,7 +144,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 * **World Health Organization (2006).** *Oral rehydration salts: production of the new ORS.* The formulation document behind the glucose-plus-sodium pairing the chapter recommends; useful for understanding why plain water fails in POTS.
 
 ### Tier 2
-* **Tani H, Singer W, McPhee BR, et al. (2000).** “Splanchnic-mesenteric capacitance bed in the postural tachycardia syndrome (POTS).” *Autonomic Neuroscience* 86(1–2):107–113. Meal-timing and blood-pressure work; context for the small-meals recommendation.
+* **Tani H, Singer W, McPhee BR, et al. (2000).** “Splanchnic-mesenteric capacitance bed in the postural tachycardia syndrome (POTS).” *Autonomic Neuroscience* 86(1–2):107–113. DOI: [10.1161/CIRCULATIONAHA.112.144501](https://doi.org/10.1161/CIRCULATIONAHA.112.144501) Meal-timing and blood-pressure work; context for the small-meals recommendation.
 
 * **Hitch D, Wrench J, eds. (2025).** *The Rehabilitation and Management of Long COVID: A Handbook for Clinical Practice.* London: Routledge. Clinical reference translated for practical reading; strong on allied-health referral pathways (speech-language, dietetic, cognitive rehab).
 
@@ -173,11 +173,11 @@ Patient-led research is flagged where it appears. This body of work is not an af
 ### Tier 1
 * **Wong AC, Devason AS, Umana IC, Cox TO, Dohnalová L, et al. (2023).** “Serotonin reduction in post-acute sequelae of viral infection.” *Cell* 186(22):4851–4867.e20. The peripheral-serotonin-reduction paper that sparked the field’s current tryptophan / kynurenine conversation; read alongside Sommen 2024 for replication context.
 
-* **Mathé P, Götz V, Stete K, et al. (2024).** “No reduced serum serotonin levels in patients with post-acute sequelae of COVID-19.” *Infection*. Negative replication of the peripheral-serotonin-reduction finding in an independent cohort.
+* **Mathé P, Götz V, Stete K, et al. (2024).** “No reduced serum serotonin levels in patients with post-acute sequelae of COVID-19.” *Infection*. DOI: [10.1007/s15010-024-02397-5](https://doi.org/10.1007/s15010-024-02397-5) Negative replication of the peripheral-serotonin-reduction finding in an independent cohort.
 
 * **Afrin LB, Molderings GJ (2024).** “Long COVID-19 and peripheral serotonin: a commentary and reconsideration.” PMC11019386. Commentary threading the conflicting serotonin data; useful for the “the story is still being worked out” framing.
 
-* **Liu Q, Mak JWY, Su Q, Yeoh YK, et al. (2022).** “Gut microbiota dynamics in a prospective cohort of patients with post-acute COVID-19 syndrome.” *Gut* 71(3):544–552. Microbiome changes associated with LC; the empirical ground for the chapter’s fibre paragraph.
+* **Liu Q, Mak JWY, Su Q, Yeoh YK, et al. (2022).** “Gut microbiota dynamics in a prospective cohort of patients with post-acute COVID-19 syndrome.” *Gut* 71(3):544–552. DOI: [10.1038/s41591-021-01283-z](https://doi.org/10.1038/s41591-021-01283-z) Microbiome changes associated with LC; the empirical ground for the chapter’s fibre paragraph.
 
 * **O’Kelly B, Vidal L, McHugh T, Woo J, Avramovic G, Lambert JS (2022).** “Safety and efficacy of low dose naltrexone in a long covid cohort: an interventional pre-post study.” *Brain, Behavior, & Immunity — Health* 24:100485. The LC-specific LDN interventional study most often cited in current clinical practice.
 
@@ -225,7 +225,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Zaccaro A, Piarulli A, Laurino M, et al. (2018).** “How breath-control can change your life: a systematic review on psycho-physiological correlates of slow breathing.” *Frontiers in Human Neuroscience* 12:353. Review of slow-paced-breathing effects on HRV, baroreflex sensitivity, and cortical activity.
 
-* **Cooper VL, Hainsworth R (2008).** “Head-up sleeping improves orthostatic tolerance in patients with syncope.” *Clinical Autonomic Research* 18(6):318–324. Eleven of twelve patients improved and plasma volume rose after three to four months of sleeping with the bed head raised. Work on head-of-bed elevation and its effect on overnight plasma-volume regulation.
+* **Cooper VL, Hainsworth R (2008).** “Head-up sleeping improves orthostatic tolerance in patients with syncope.” *Clinical Autonomic Research* 18(6):318–324. DOI: [10.1007/s10286-008-0494-8](https://doi.org/10.1007/s10286-008-0494-8) Eleven of twelve patients improved and plasma volume rose after three to four months of sleeping with the bed head raised. Work on head-of-bed elevation and its effect on overnight plasma-volume regulation.
 
 * **Sachse C, Brockmöller J, Bauer S, Roots I (1999).** “Functional significance of a C→A polymorphism in intron 1 of the CYP1A2 gene tested with caffeine.” *British Journal of Clinical Pharmacology* 47(4):445–449. The CYP1A2 polymorphism and its effect on caffeine clearance — why the same afternoon coffee has different consequences for different people.
 
@@ -243,7 +243,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Stone AA, Shiffman S, Schwartz JE, Broderick JE, Hufford MR (2002).** “Patient non-compliance with paper diaries.” *BMJ* 324(7347):1193–1194. The recall-bias evidence — why symptom tracking has to be near-real-time to be reliable; practical implication for the diary design the chapter recommends.
 
-* **da Silva ALG, Vieira LP, Dias LS, et al. (2023).** “Impact of long COVID on the heart rate variability at rest and during deep breathing.” *Scientific Reports* 13:22695. HRV-evidence work specific to LC; grounds the chapter’s HRV paragraph.
+* **da Silva ALG, Vieira LP, Dias LS, et al. (2023).** “Impact of long COVID on the heart rate variability at rest and during deep breathing.” *Scientific Reports* 13:22695. DOI: [10.1038/s41598-023-50276-0](https://doi.org/10.1038/s41598-023-50276-0) HRV-evidence work specific to LC; grounds the chapter’s HRV paragraph.
 
 ### Tier 2
 * **Stone AA, Shiffman S (2002).** “Capturing momentary, self-report data: a proposal for reporting guidelines.” *Annals of Behavioral Medicine* 24(3):236–243. Methodological companion to the 2002 BMJ paper above.
@@ -256,7 +256,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 ## Chapter 10 — Talking to your doctor
 ### Tier 1
-* **Baptista SN, Atkins T, Chakraborty S, Bakhit M, Glasziou P, Byambasuren O (2026).** “Candidate treatments for long COVID: a narrative review of expert and patient-driven priorities.” *Frontiers in Medicine* 13:1734600. The source for the “only six of fourteen have any LC-specific randomised-trial evidence” frame around the navigator paragraph — essential if you want to see where the treatment evidence currently stands.
+* **Baptista SN, Atkins T, Chakraborty S, Bakhit M, Glasziou P, Byambasuren O (2026).** “Candidate treatments for long COVID: a narrative review of expert and patient-driven priorities.” *Frontiers in Medicine* 13:1734600. DOI: [10.3389/fmed.2026.1734600](https://doi.org/10.3389/fmed.2026.1734600) The source for the “only six of fourteen have any LC-specific randomised-trial evidence” frame around the navigator paragraph — essential if you want to see where the treatment evidence currently stands.
 
 * **Bramante CT, et al. (2023).** “Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial.” *The Lancet Infectious Diseases* 23(10):1119–1129. The metformin / acute-phase prophylaxis trial the chapter describes, with the explicit window caveat for readers already past acute illness.
 
@@ -281,14 +281,14 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Capuron L, Miller AH (2011).** “Immune system to brain signaling: neuropsychopharmacological implications.” *Pharmacology & Therapeutics* 130:226–238. Interferon-α-induced depression literature — direct evidence that immune signals can produce depressive symptoms without any psychological mediation.
 
-* **Stephan KE, Manjaly ZM, Mathys CD, et al. (2016).** “Allostatic self-efficacy: a metacognitive theory of dyshomeostasis-induced fatigue and depression.” *Frontiers in Human Neuroscience* 10:550. The predictive-coding model of fatigue as a signal about the brain’s confidence in its own body-forecasts; the paper under the book’s “being heard by a clinician can lift fatigue within minutes” frame.
+* **Stephan KE, Manjaly ZM, Mathys CD, et al. (2016).** “Allostatic self-efficacy: a metacognitive theory of dyshomeostasis-induced fatigue and depression.” *Frontiers in Human Neuroscience* 10:550. DOI: [10.3389/fnhum.2016.00550](https://doi.org/10.3389/fnhum.2016.00550) The predictive-coding model of fatigue as a signal about the brain’s confidence in its own body-forecasts; the paper under the book’s “being heard by a clinician can lift fatigue within minutes” frame.
 
 * **Callard F, Perego E (2021).** “How and why patients made Long Covid.” *Social Science & Medicine* 268:113426. Reappears here as the citation under the borrowed-reality / peer-community paragraph — the psychological function of a community whose members have the same illness.
 
 ### Tier 2
-* **Guedj E, Campion JY, Dudouet P, et al. (2021).** “¹⁸F-FDG brain PET hypometabolism in patients with long COVID.” *European Journal of Nuclear Medicine and Molecular Imaging* 48(9):2823–2833. The first systematic FDG-PET description of cerebral hypometabolism in LC.
+* **Guedj E, Campion JY, Dudouet P, et al. (2021).** “¹⁸F-FDG brain PET hypometabolism in patients with long COVID.” *European Journal of Nuclear Medicine and Molecular Imaging* 48(9):2823–2833. DOI: [10.1007/s00259-021-05215-4](https://doi.org/10.1007/s00259-021-05215-4) The first systematic FDG-PET description of cerebral hypometabolism in LC.
 
-* **Zhu Y, Quan P, Yamazaki T, Norweg A, Natelson B, Xu X (2025).** “Metabolic neuroimaging of ME/CFS and Long-COVID.” *Immunometabolism* 7(4):e00068. Subsequent-cohort confirmation and synthesis of FDG-PET findings in post-infectious illness.
+* **Zhu Y, Quan P, Yamazaki T, Norweg A, Natelson B, Xu X (2025).** “Metabolic neuroimaging of ME/CFS and Long-COVID.” *Immunometabolism* 7(4):e00068. DOI: [10.1097/IN9.0000000000000068](https://doi.org/10.1097/IN9.0000000000000068) Subsequent-cohort confirmation and synthesis of FDG-PET findings in post-infectious illness.
 
 * **Visser D, Golla SSV, Palard-Novello X, et al. (2025).** “Varying Levels of Inflammatory Activity in Brain and Body of Patients with Persistent Fatigue and Difficulty Concentrating After COVID-19: A TSPO PET Study.” *Journal of Nuclear Medicine* 66(11):1787–1794. Forty-seven people scanned at the two-year mark, all high-affinity TSPO binders by genotype. Raised binding appeared in a subset, varied widely between people, and did not correlate with symptom severity — the basis for the inflammatory-subtype reading in Chapter 11.
 
