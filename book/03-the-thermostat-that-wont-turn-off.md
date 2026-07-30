@@ -149,7 +149,7 @@ Catherine did this test for the first time on a Tuesday, in her bedroom, with a 
 
 9. Badran BW, Huffman SM, Dancy M, Austelle CW, Bikson M, Kautz SA, George MS. A pilot randomized controlled trial of supervised, at-home, self-administered transcutaneous auricular vagus nerve stimulation (taVNS) to manage long COVID symptoms. *Bioelectronic Medicine*. 2022;8(1):13. DOI: [10.1186/s42234-022-00094-y](https://doi.org/10.1186/s42234-022-00094-y)
 
-10. Corrado J, Iftekhar N, Halpin S, Li M, Tarrant R, Grimaldi J, Simms A, O’Connor RJ, Casson A, Sivan M. Heart Rate Variability Biofeedback for Long COVID Dysautonomia (HEARTLOC): Results of a Feasibility Study. *Advances in Rehabilitation Science and Practice*. 2024;13. PMCID: PMC10826406.
+10. Corrado J, Iftekhar N, Halpin S, Li M, Tarrant R, Grimaldi J, Simms A, O’Connor RJ, Casson A, Sivan M. Heart Rate Variability Biofeedback for Long COVID Dysautonomia (HEARTLOC): Results of a Feasibility Study. *Advances in Rehabilitation Science and Practice*. 2024;13. DOI: [10.1177/27536351241227261](https://doi.org/10.1177/27536351241227261) PMCID: PMC10826406.
 
 11. Mauro M, Cegolon L, Bestiaco N, Zulian E, Filon FL. Heart Rate Variability Modulation Through Slow-Paced Breathing in Health Care Workers with Long COVID: A Case-Control Study. *The American Journal of Medicine*. 2025\. DOI: [10.1016/j.amjmed.2024.05.021](https://doi.org/10.1016/j.amjmed.2024.05.021)
 
