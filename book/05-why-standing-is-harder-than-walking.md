@@ -131,27 +131,17 @@ What you will have at the end of it is what Catherine had, staring at her bedroo
 ---
 
 ## Sources
-\[1\] Thieben MJ, Sandroni P, Sletten DM, Benrud-Larson LM, Fealey RD, Vernino S, Lennon VA, Shen W-K, Low PA. 2007\. Postural orthostatic tachycardia syndrome: the Mayo clinic experience. *Mayo Clinic Proceedings*, 82(3):308–313. DOI: [10.4065/82.3.308](https://doi.org/10.4065/82.3.308)
-
-\[2\] Haensch C-A, Tosch M, Katona I, Weis J, Isenmann S. 2014\. Small-fiber neuropathy with cardiac denervation in postural tachycardia syndrome. *Muscle & Nerve*, 50(6):956–961. DOI: [10.1002/mus.24245](https://doi.org/10.1002/mus.24245)
-
-\[3\] Fu Q, VanGundy TB, Galbreath MM, Shibata S, Jain M, Hastings JL, Bhella PS, Levine BD. 2010\. Cardiac origins of the postural orthostatic tachycardia syndrome. *Journal of the American College of Cardiology*, 55(25):2858–2868. DOI: [10.1016/j.jacc.2010.02.043](https://doi.org/10.1016/j.jacc.2010.02.043)
-
-\[4\] Garland EM, Celedonio JE, Raj SR. 2015\. Postural tachycardia syndrome: beyond orthostatic intolerance. *Current Neurology and Neuroscience Reports*, 15(9):60. DOI: [10.1007/s11910-015-0583-8](https://doi.org/10.1007/s11910-015-0583-8)
-
-\[5\] Benarroch EE. 2012\. Postural tachycardia syndrome: a heterogeneous and multifactorial disorder. *Mayo Clinic Proceedings*, 87(12):1214–1225. DOI: [10.1016/j.mayocp.2012.08.013](https://doi.org/10.1016/j.mayocp.2012.08.013)
-
-\[6\] Wallukat G, Hohberger B, Wenzel K, Fürst J, Schulze-Rothe S, Wallukat A, Hönicke A-S, Müller J. 2021\. Functional autoantibodies against G-protein coupled receptors in patients with persistent Long-COVID-19 symptoms. *Journal of Translational Autoimmunity*, 4:100100. DOI: [10.1016/j.jtauto.2021.100100](https://doi.org/10.1016/j.jtauto.2021.100100)
-
-\[7\] Bateman Horne Center. NASA Lean Test Instructions (patient handout). batemanhornecenter.org.
-
-\[8\] Uppal J, Baker JR, Hira R, Karalasingham K, Ranada S, Deol P, Sheldon RS, Raj SR. 2025\. Physiological and clinical comparison of active stand and head-up tilt tests in Postural Orthostatic Tachycardia Syndrome (POTS). *Autonomic Neuroscience*, 260:103281. DOI: [10.1016/j.autneu.2025.103281](https://doi.org/10.1016/j.autneu.2025.103281) Sixty patients completed a 10-minute active stand followed by head-up tilt on the same day. Heart-rate and stroke-volume trajectories were broadly similar, but 74% met the POTS heart-rate criterion on active stand against 98% on tilt (p<0.001); lowering the active-stand threshold to 27 bpm narrowed the gap to 83% against 98% (p=0.02).
-
-\[9\] Freeman R, Wieling W, Axelrod FB, Benditt DG, Benarroch E, Biaggioni I, Cheshire WP, Chelimsky T, Cortelli P, Gibbons CH, Goldstein DS, Hainsworth R, Hilz MJ, Jacob G, Kaufmann H, Jordan J, Lipsitz LA, Levine BD, Low PA, Mathias C, Raj SR, Robertson D, Sandroni P, Schatz I, Schondorf R, Stewart JM, van Dijk JG. 2011\. Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome. *Clinical Autonomic Research*, 21(2):69–72. DOI: [10.1007/s10286-011-0119-5](https://doi.org/10.1007/s10286-011-0119-5)
-
-\[10\] Fu Q, Levine BD. 2018\. Exercise and non-pharmacological treatment of POTS. *Autonomic Neuroscience*, 215:20–27. DOI: [10.1016/j.autneu.2018.07.001](https://doi.org/10.1016/j.autneu.2018.07.001)
-
-\[11\] Medinger G, Altmann D. 2022\. *The Long COVID Handbook.* London: Hutchinson Heinemann. ISBN 9781529900125\. Survey of 603 women with Long COVID reporting correlation of POTS-pattern symptoms with menstrual cycle phases.
+1. Thieben MJ, Sandroni P, Sletten DM, Benrud-Larson LM, Fealey RD, Vernino S, Lennon VA, Shen W-K, Low PA. 2007\. Postural orthostatic tachycardia syndrome: the Mayo clinic experience. *Mayo Clinic Proceedings*, 82(3):308–313. DOI: [10.4065/82.3.308](https://doi.org/10.4065/82.3.308)
+2. Haensch C-A, Tosch M, Katona I, Weis J, Isenmann S. 2014\. Small-fiber neuropathy with cardiac denervation in postural tachycardia syndrome. *Muscle & Nerve*, 50(6):956–961. DOI: [10.1002/mus.24245](https://doi.org/10.1002/mus.24245)
+3. Fu Q, VanGundy TB, Galbreath MM, Shibata S, Jain M, Hastings JL, Bhella PS, Levine BD. 2010\. Cardiac origins of the postural orthostatic tachycardia syndrome. *Journal of the American College of Cardiology*, 55(25):2858–2868. DOI: [10.1016/j.jacc.2010.02.043](https://doi.org/10.1016/j.jacc.2010.02.043)
+4. Garland EM, Celedonio JE, Raj SR. 2015\. Postural tachycardia syndrome: beyond orthostatic intolerance. *Current Neurology and Neuroscience Reports*, 15(9):60. DOI: [10.1007/s11910-015-0583-8](https://doi.org/10.1007/s11910-015-0583-8)
+5. Benarroch EE. 2012\. Postural tachycardia syndrome: a heterogeneous and multifactorial disorder. *Mayo Clinic Proceedings*, 87(12):1214–1225. DOI: [10.1016/j.mayocp.2012.08.013](https://doi.org/10.1016/j.mayocp.2012.08.013)
+6. Wallukat G, Hohberger B, Wenzel K, Fürst J, Schulze-Rothe S, Wallukat A, Hönicke A-S, Müller J. 2021\. Functional autoantibodies against G-protein coupled receptors in patients with persistent Long-COVID-19 symptoms. *Journal of Translational Autoimmunity*, 4:100100. DOI: [10.1016/j.jtauto.2021.100100](https://doi.org/10.1016/j.jtauto.2021.100100)
+7. Bateman Horne Center. NASA Lean Test Instructions (patient handout). batemanhornecenter.org.
+8. Uppal J, Baker JR, Hira R, Karalasingham K, Ranada S, Deol P, Sheldon RS, Raj SR. 2025\. Physiological and clinical comparison of active stand and head-up tilt tests in Postural Orthostatic Tachycardia Syndrome (POTS). *Autonomic Neuroscience*, 260:103281. DOI: [10.1016/j.autneu.2025.103281](https://doi.org/10.1016/j.autneu.2025.103281) Sixty patients completed a 10-minute active stand followed by head-up tilt on the same day. Heart-rate and stroke-volume trajectories were broadly similar, but 74% met the POTS heart-rate criterion on active stand against 98% on tilt (p<0.001); lowering the active-stand threshold to 27 bpm narrowed the gap to 83% against 98% (p=0.02).
+9. Freeman R, Wieling W, Axelrod FB, Benditt DG, Benarroch E, Biaggioni I, Cheshire WP, Chelimsky T, Cortelli P, Gibbons CH, Goldstein DS, Hainsworth R, Hilz MJ, Jacob G, Kaufmann H, Jordan J, Lipsitz LA, Levine BD, Low PA, Mathias C, Raj SR, Robertson D, Sandroni P, Schatz I, Schondorf R, Stewart JM, van Dijk JG. 2011\. Consensus statement on the definition of orthostatic hypotension, neurally mediated syncope and the postural tachycardia syndrome. *Clinical Autonomic Research*, 21(2):69–72. DOI: [10.1007/s10286-011-0119-5](https://doi.org/10.1007/s10286-011-0119-5)
+10. Fu Q, Levine BD. 2018\. Exercise and non-pharmacological treatment of POTS. *Autonomic Neuroscience*, 215:20–27. DOI: [10.1016/j.autneu.2018.07.001](https://doi.org/10.1016/j.autneu.2018.07.001)
+11. Medinger G, Altmann D. 2022\. *The Long COVID Handbook.* London: Hutchinson Heinemann. ISBN 9781529900125\. Survey of 603 women with Long COVID reporting correlation of POTS-pattern symptoms with menstrual cycle phases.
 
 ---
 
