@@ -215,7 +215,7 @@ This is a quick-reference glossary, not a textbook. It covers the technical and 
 ---
 
 ## Abbreviations at a glance
-* **ADA** — Americans with Disabilities Act
+* **ADA** — Americans with Disabilities Act <https://www.eeoc.gov/statutes/titles-i-and-v-americans-disabilities-act-1990-ada>
 
 * **ANS** — Autonomic Nervous System
 
@@ -263,7 +263,7 @@ This is a quick-reference glossary, not a textbook. It covers the technical and 
 
 * **NASA Lean Test** — home-adapted ten-minute orthostatic stand test
 
-* **NICE** — National Institute for Health and Care Excellence (UK)
+* **NICE** — National Institute for Health and Care Excellence (UK) <https://www.nice.org.uk/guidance/ng206>
 
 * **OH** — Orthostatic Hypotension
 

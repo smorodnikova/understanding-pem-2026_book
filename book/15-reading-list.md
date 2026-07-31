@@ -22,10 +22,10 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **U.S. Department of Health and Human Services (2022).** *National Research Action Plan on Long COVID*, with the Infection-Associated Chronic Conditions (IACC) umbrella definition. The formal HHS scoping that gathers LC, ME/CFS, POTS, MCAS, post-Lyme, post-EBV, and related conditions into one working category.
 
-* **Patient-Led Research Collaborative (PLRC).** Ongoing publications and reports at patientresearchcovid19.com. The community research group whose 2020 survey work set the methodological template for the rest of the field.
+* **Patient-Led Research Collaborative (PLRC).** Ongoing publications and reports at patientresearchcovid19.com. The community research group whose 2020 survey work set the methodological template for the rest of the field. <https://patientresearchcovid19.com>
 
 ### Tier 2
-* **National Academies of Sciences, Engineering, and Medicine (2024).** *A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences.* Washington, DC: National Academies Press. Update to the 2015 IOM work, now covering Long COVID specifically.
+* **National Academies of Sciences, Engineering, and Medicine (2024).** *A Long COVID Definition: A Chronic, Systemic Disease State with Profound Consequences.* Washington, DC: National Academies Press. Update to the 2015 IOM work, now covering Long COVID specifically. <https://www.nationalacademies.org/projects/HMD-HSP-23-01/publication/27768>
 
 ---
 
@@ -41,7 +41,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Swank Z, Senussi Y, Manickas-Hill Z, Yu XG, Li JZ, Alter G, Walt DR (2023).** “Persistent circulating SARS-CoV-2 spike is associated with post-acute COVID-19 sequelae.” *Clinical Infectious Diseases* 76(3):e487–e490. DOI: [10.1093/cid/ciac722](https://doi.org/10.1093/cid/ciac722) The paper that names the molecular hook behind “viral persistence” — spike fragments still circulating months after acute infection.
 
-* **National Institute for Health and Care Excellence (2021).** *Myalgic encephalomyelitis (or encephalopathy) / chronic fatigue syndrome: diagnosis and management* (NG206). The current UK clinical guideline, relevant for PEM definition, harm caution around graded exercise, and pacing as first-line activity management.
+* **National Institute for Health and Care Excellence (2021).** *Myalgic encephalomyelitis (or encephalopathy) / chronic fatigue syndrome: diagnosis and management* (NG206). The current UK clinical guideline, relevant for PEM definition, harm caution around graded exercise, and pacing as first-line activity management. <https://www.nice.org.uk/guidance/ng206>
 
 ### Tier 2
 * **Nalbandian A, Sehgal K, Gupta A, et al. (2021).** “Post-acute COVID-19 syndrome.” *Nature Medicine* 27(4):601–615. DOI: [10.1038/s41591-021-01283-z](https://doi.org/10.1038/s41591-021-01283-z) Clinical overview of organ-system manifestations during the early LC literature.
@@ -116,7 +116,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Uppal J, Baker JR, Hira R, et al. (2025).** “Physiological and clinical comparison of active stand and head-up tilt tests in Postural Orthostatic Tachycardia Syndrome (POTS).” *Autonomic Neuroscience* 260:103281. DOI: [10.1016/j.autneu.2025.103281](https://doi.org/10.1016/j.autneu.2025.103281) Sixty patients did both tests on the same day. Hemodynamic trajectories were broadly similar, but 74% met the POTS heart-rate criterion on active stand against 98% on tilt. Read it for the limit as much as for the ground for the NASA Lean Test home-equivalent.
 
-* **Bateman Horne Center.** *NASA Lean Test Instructions.* Patient handout. The protocol Ch 04 and Ch 05 use directly; a one-page procedure any reader can run at home.
+* **Bateman Horne Center.** *NASA Lean Test Instructions.* Patient handout. The protocol Ch 04 and Ch 05 use directly; a one-page procedure any reader can run at home. <https://batemanhornecenter.org/>
 
 ### Tier 2
 * **Benarroch EE (2012).** “Postural tachycardia syndrome: a heterogeneous and multifactorial disorder.” *Mayo Clinic Proceedings* 87(12):1214–1225. DOI: [10.1016/j.mayocp.2012.08.013](https://doi.org/10.1016/j.mayocp.2012.08.013) Mechanism review — useful if the subtype split raises more questions.
@@ -141,7 +141,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **El-Sayed H, Hainsworth R (1996).** “Salt supplement increases plasma volume and orthostatic tolerance in patients with unexplained syncope.” *Heart* 75(2):134–140. DOI: [10.1136/hrt.75.2.134](https://doi.org/10.1136/hrt.75.2.134) Classic evidence on salt-loading and orthostatic tolerance.
 
-* **World Health Organization (2006).** *Oral rehydration salts: production of the new ORS.* The formulation document behind the glucose-plus-sodium pairing the chapter recommends; useful for understanding why plain water fails in POTS.
+* **World Health Organization (2006).** *Oral rehydration salts: production of the new ORS.* The formulation document behind the glucose-plus-sodium pairing the chapter recommends; useful for understanding why plain water fails in POTS. <https://www.who.int/publications/i/item/WHO-FCH-CAH-06.1>
 
 ### Tier 2
 * **Tani H, Singer W, McPhee BR, et al. (2000).** “Splanchnic-mesenteric capacitance bed in the postural tachycardia syndrome (POTS).” *Autonomic Neuroscience* 86(1–2):107–113. DOI: [10.1161/CIRCULATIONAHA.112.144501](https://doi.org/10.1161/CIRCULATIONAHA.112.144501) Meal-timing and blood-pressure work; context for the small-meals recommendation.
@@ -152,7 +152,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 ## Chapter 6 — Pacing
 ### Tier 1
-* **National Institute for Health and Care Excellence (2021).** *Myalgic encephalomyelitis (or encephalopathy) / chronic fatigue syndrome: diagnosis and management* (NG206). The guideline that formally replaced graded exercise with pacing as first-line activity management in ME/CFS and related conditions.
+* **National Institute for Health and Care Excellence (2021).** *Myalgic encephalomyelitis (or encephalopathy) / chronic fatigue syndrome: diagnosis and management* (NG206). The guideline that formally replaced graded exercise with pacing as first-line activity management in ME/CFS and related conditions. <https://www.nice.org.uk/guidance/ng206>
 
 * **Fluge Ø, Mella O, Bruland O, et al. (2016).** “Metabolic profiling indicates impaired pyruvate dehydrogenase function in myalgic encephalomyelitis / chronic fatigue syndrome.” *JCI Insight* 1(21):e89376. DOI: [10.1172/jci.insight.89376](https://doi.org/10.1172/jci.insight.89376) The pyruvate-dehydrogenase downregulation finding that explains why “exercise doesn’t help” at the cell-biology level.
 
@@ -235,7 +235,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 ## Chapter 9 — Data over feelings
 ### Tier 1
-* **Bateman Horne Center.** *Clinical Care Guide for ME/CFS and Long COVID*, including the Hours of Upright Activity (HUA) measure. Free to download at batemanhornecenter.org. The clinical-care document under the HUA definition used in-chapter.
+* **Bateman Horne Center.** *Clinical Care Guide for ME/CFS and Long COVID*, including the Hours of Upright Activity (HUA) measure. Free to download at batemanhornecenter.org. The clinical-care document under the HUA definition used in-chapter. <https://batemanhornecenter.org/clinical-care-guide/>
 
 * **Jason LA, So S, Brown AA, Sunnquist M, Evans M (2015).** “Test-retest reliability of the DePaul Symptom Questionnaire.” *Fatigue: Biomedicine, Health & Behavior* 3(1):16–32. DOI: [10.1080/21641846.2014.978110](https://doi.org/10.1080/21641846.2014.978110) Psychometric validation of the instrument the chapter recommends for symptom tracking; useful to know the test-retest figures before committing to a diary system.
 
@@ -262,14 +262,14 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Bateman L, Bested AC, Bonilla HF, et al. (2021).** “Myalgic encephalomyelitis / chronic fatigue syndrome: essentials of diagnosis and management.” *Mayo Clinic Proceedings* 96(11):2861–2878. DOI: [10.1016/j.mayocp.2021.07.004](https://doi.org/10.1016/j.mayocp.2021.07.004) The clinical-care consensus document to put in front of a doctor who is new to the condition.
 
-* **U.S. ME/CFS Clinician Coalition.** Clinician handouts available at mecfscliniciancoalition.org. Printable one-pagers suitable for a first appointment — the physical artefact the chapter’s “hand this to your doctor” phrase refers to.
+* **U.S. ME/CFS Clinician Coalition.** Clinician handouts available at mecfscliniciancoalition.org. Printable one-pagers suitable for a first appointment — the physical artefact the chapter’s “hand this to your doctor” phrase refers to. <https://mecfscliniciancoalition.org>
 
 * **Shaw BH, Stiles LE, Bourne K, et al. (2019).** “The face of postural tachycardia syndrome — insights from a large cross-sectional online community-based survey.” *Journal of Internal Medicine* 286(4):438–448. DOI: [10.1111/joim.12895](https://doi.org/10.1111/joim.12895) Patient-survey data (n=4,835) including the 77%-misdiagnosed-as-anxiety finding the chapter references.
 
 ### Tier 2
 * **Mathew GT, Novak P. (2026).** “Prevalence of Central Sensitization in Postural Tachycardia Syndrome.” *JAMA Network Open* 9(1):e2553694. DOI: [10.1001/jamanetworkopen.2025.53694](https://doi.org/10.1001/jamanetworkopen.2025.53694) Mechanism citation useful for the doctor-conversation framing around “system stuck in high alert.”
 
-* **RECOVER-AUTONOMIC Trial Network (2026).** Ivabradine arm (Group B) readout and registry at trials.recovercovid.org/autonomic-group-b. The in-progress clinical-trial landscape against which individual treatment questions can be situated.
+* **RECOVER-AUTONOMIC (ivabradine arm, Appendix B).** Registry entry <https://clinicaltrials.gov/study/NCT06305806>; design and rationale in Fudim M, Novak P, Taub PR, et al. 2026. “Design and rationale of RECOVER-AUTONOMIC: a randomized platform trial evaluating interventions for Long COVID postural orthostatic tachycardia syndrome.” *American Heart Journal* 296:107384. DOI: [10.1016/j.ahj.2026.107384](https://doi.org/10.1016/j.ahj.2026.107384) Randomised, placebo-controlled, 181 participants; the trial completed in December 2025 and results had not been published when this book was written.
 
 ---
 
@@ -308,14 +308,14 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Callard F, Perego E (2021).** “How and why patients made Long Covid.” *Social Science & Medicine* 268:113426. DOI: [10.1016/j.socscimed.2020.113426](https://doi.org/10.1016/j.socscimed.2020.113426) Returns here in the patient-built-tools lineage — where much of the current vocabulary for invisible illness was first articulated.
 
-* **Bateman Horne Center.** *ME/CFS & Long COVID Clinical Care Guide*, §17 “Caregiving.” The section the chapter’s caregiver-burnout paragraph rests on; short, practical, written for the household context.
+* **Bateman Horne Center.** *ME/CFS & Long COVID Clinical Care Guide*, §17 “Caregiving.” The section the chapter’s caregiver-burnout paragraph rests on; short, practical, written for the household context. <https://batemanhornecenter.org/clinical-care-guide/>
 
-* **U.S. Equal Employment Opportunity Commission.** *Americans with Disabilities Act* (1990, as amended). The U.S. statutory basis for workplace accommodation conversations discussed in the workplace-register section of the chapter.
+* **U.S. Equal Employment Opportunity Commission.** *Americans with Disabilities Act* (1990, as amended). The U.S. statutory basis for workplace accommodation conversations discussed in the workplace-register section of the chapter. <https://www.eeoc.gov/statutes/titles-i-and-v-americans-disabilities-act-1990-ada>
 
-* **U.S. Department of Justice, Civil Rights Division, and HHS Office for Civil Rights (2021).** *Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section 1557\.* The 2021 federal guidance that established LC can qualify as a disability; relevant for anyone in the US facing a workplace-accommodation conversation.
+* **U.S. Department of Justice, Civil Rights Division, and HHS Office for Civil Rights (2021).** *Guidance on “Long COVID” as a Disability Under the ADA, Section 504, and Section 1557\.* The 2021 federal guidance that established LC can qualify as a disability; relevant for anyone in the US facing a workplace-accommodation conversation. <https://www.hhs.gov/civil-rights/for-providers/civil-rights-covid19/guidance-long-covid-disability/index.html>
 
 ### Tier 2
-* **Patient-Led Research Collaborative (PLRC).** Workplace and disability-accommodation resources curated for the LC community at patientresearchcovid19.com. Patient-led practical materials adjacent to but distinct from the formal statutory guidance above.
+* **Patient-Led Research Collaborative (PLRC).** Workplace and disability-accommodation resources curated for the LC community at patientresearchcovid19.com. Patient-led practical materials adjacent to but distinct from the formal statutory guidance above. <https://patientresearchcovid19.com>
 
 * **Medinger G, Altmann D (2022).** *The Long COVID Handbook.* London: Hutchinson Heinemann. The chapter on household communication is a calmer companion to this chapter; the book as a whole remains useful cross-theme reading.
 
@@ -325,7 +325,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 ### Tier 1
 * **Collins J (2001).** *Good to Great: Why Some Companies Make the Leap … and Others Don’t.* New York: HarperBusiness. Source of the Stockdale Paradox — the two-things-at-once posture (unwavering faith in eventual outcome plus discipline to confront brutal current facts) the Conclusion borrows as its closing frame.
 
-* **NIH RECOVER Initiative.** Program materials and patient-partnered research framework at recovercovid.org. The ongoing national research program the book sits inside; useful context for the closing “this is one artefact of an ongoing study” framing.
+* **NIH RECOVER Initiative.** Program materials and patient-partnered research framework at recovercovid.org. The ongoing national research program the book sits inside; useful context for the closing “this is one artefact of an ongoing study” framing. <https://recovercovid.org>
 
 ### Tier 2
 ---
@@ -333,21 +333,21 @@ Patient-led research is flagged where it appears. This body of work is not an af
 ## Patient-led research and community resources
 A separate list, because this body of work sits outside conventional journal pipelines and deserves to be found directly.
 
-* **Patient-Led Research Collaborative (PLRC)** — patientresearchcovid19.com. The community-research group whose 2020 symptom survey set the methodological template for the rest of the field. Ongoing publication list, interview archive, and research prioritisation reports.
+* **Patient-Led Research Collaborative (PLRC)** — patientresearchcovid19.com. The community-research group whose 2020 symptom survey set the methodological template for the rest of the field. Ongoing publication list, interview archive, and research prioritisation reports. <https://patientresearchcovid19.com>
 
-* **Body Politic** — the online community that incubated the Patient-Led Research Collaborative in early 2020; archived materials remain a historical record of how the framing came together in real time.
+* **Body Politic** — the online community that incubated the Patient-Led Research Collaborative in early 2020; archived materials remain a historical record of how the framing came together in real time. <https://patientresearchcovid19.com>
 
-* **Bateman Horne Center** — batemanhornecenter.org. Clinical-care guides, the NASA Lean Test handout, the HUA protocol, and the caregiver support materials all referenced in this book. Free to download.
+* **Bateman Horne Center** — batemanhornecenter.org. Clinical-care guides, the NASA Lean Test handout, the HUA protocol, and the caregiver support materials all referenced in this book. Free to download. <https://batemanhornecenter.org/>
 
-* **U.S. ME/CFS Clinician Coalition** — mecfscliniciancoalition.org. The physician-facing handouts designed for first appointments with a clinician unfamiliar with the condition.
+* **U.S. ME/CFS Clinician Coalition** — mecfscliniciancoalition.org. The physician-facing handouts designed for first appointments with a clinician unfamiliar with the condition. <https://mecfscliniciancoalition.org>
 
-* **Workwell Foundation** — workwellfoundation.org. The clinical group behind the two-day CPET literature and most of the practical pacing work.
+* **Workwell Foundation** — workwellfoundation.org. The clinical group behind the two-day CPET literature and most of the practical pacing work. <https://workwellfoundation.org>
 
-* **ME Association (UK)** — meassociation.org.uk. A long-running patient-organisation publishing current clinical summaries, trial updates, and the monthly magazine that kept the field together through the decades when it had no institutional home.
+* **ME Association (UK)** — meassociation.org.uk. A long-running patient-organisation publishing current clinical summaries, trial updates, and the monthly magazine that kept the field together through the decades when it had no institutional home. <https://meassociation.org.uk>
 
 * **DePaul Center for Community Research** — the DePaul Symptom Questionnaire and the Jason lab’s work on diagnostic-criteria discrimination.
 
-* **Long COVID Physio** — longcovid.physio. Physiotherapy-led patient-facing resources written for PEM-aware activity management.
+* **Long COVID Physio** — longcovid.physio. Physiotherapy-led patient-facing resources written for PEM-aware activity management. <https://longcovid.physio>
 
 ---
 
