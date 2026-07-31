@@ -145,7 +145,7 @@ Sketch the pattern map on a single sheet — symptoms down the left, triggers an
 
 5. Ray JC, Pham X, Foster E, Cheema S, Corcoran SJ, Matharu MS, Hutton EJ. The prevalence of headache disorders in postural tachycardia syndrome: a systematic review and meta-analysis of the literature. *Cephalalgia*. 2022;42(11–12):1274–1287. DOI: [10.1177/03331024221095153](https://doi.org/10.1177/03331024221095153)
 
-6. Hitch D, Wrench A, et al. *Rehabilitation and Management of Long COVID*. Routledge; 2024\.
+6. Hitch D, Wrench J, eds. 2026\. *The Rehabilitation and Management of Long COVID: A Handbook for Clinical Practice.* London: Routledge. DOI: [10.4324/9781003528104](https://doi.org/10.4324/9781003528104)
 
 7. Ayoubkhani D, Bermingham C, Pouwels KB, Glickman M, Nafilyan V, Zaccardi F, Khunti K, Alwan NA, Walker AS. Trajectory of long covid symptoms after covid-19 vaccination: community based cohort study. *BMJ*. 2022;377:e069676. DOI: [10.1136/bmj-2021-069676](https://doi.org/10.1136/bmj-2021-069676)
 

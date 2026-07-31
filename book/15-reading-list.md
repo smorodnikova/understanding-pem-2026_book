@@ -48,7 +48,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Stein SR, Ramelli SC, Grazioli A, et al. (2022).** “SARS-CoV-2 infection and persistence in the human body and brain at autopsy.” *Nature* 612(7941):758–763. DOI: [10.1038/s41586-022-05542-y](https://doi.org/10.1038/s41586-022-05542-y) Autopsy data confirming widespread viral persistence in tissues beyond the respiratory tract.
 
-* **Peter RS, Nieters A, Göpel S, et al. (2025).** “Post-COVID-19 condition: characteristics and natural course in a large German cohort — the EPILOC Phase 2 study.” *PLoS Medicine* 22(1):e1004511. DOI: [10.1371/journal.pmed.1004511](https://doi.org/10.1371/journal.pmed.1004511) Prospective n=1,154 cohort with CPET and cognitive testing; useful companion read on LC phenotyping.
+* **Peter RS, Nieters A, Göpel S, et al. (2025).** “Persistent symptoms and clinical findings in adults with post-acute sequelae of COVID-19/post-COVID-19 syndrome in the second year after acute infection: a population-based, nested case-control study.” *PLoS Medicine* 22(1):e1004511. DOI: [10.1371/journal.pmed.1004511](https://doi.org/10.1371/journal.pmed.1004511) Nested case-control study within the EPILOC project: 982 participants with post-COVID syndrome against 576 matched controls, with CPET and neurocognitive testing; useful companion read on LC phenotyping.
 
 ---
 
@@ -139,14 +139,14 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Bourne KM, et al. (2021).** “Compression Garment Reduces Orthostatic Tachycardia and Symptoms in Patients With Postural Orthostatic Tachycardia Syndrome.” *Journal of the American College of Cardiology* 77(3):285–296. DOI: [10.1016/j.jacc.2020.11.040](https://doi.org/10.1016/j.jacc.2020.11.040) The evidence base for why abdominal-plus-thigh compression beats stockings alone — the splanchnic-bed story in clinical form.
 
-* **El-Sayed H, Hainsworth R (1996).** “Salt supplement increases plasma volume and orthostatic tolerance in patients with unexplained syncope.” *Heart* 82(2):167–172. DOI: [10.1136/hrt.75.2.134](https://doi.org/10.1136/hrt.75.2.134) Classic evidence on salt-loading and orthostatic tolerance.
+* **El-Sayed H, Hainsworth R (1996).** “Salt supplement increases plasma volume and orthostatic tolerance in patients with unexplained syncope.” *Heart* 75(2):134–140. DOI: [10.1136/hrt.75.2.134](https://doi.org/10.1136/hrt.75.2.134) Classic evidence on salt-loading and orthostatic tolerance.
 
 * **World Health Organization (2006).** *Oral rehydration salts: production of the new ORS.* The formulation document behind the glucose-plus-sodium pairing the chapter recommends; useful for understanding why plain water fails in POTS.
 
 ### Tier 2
 * **Tani H, Singer W, McPhee BR, et al. (2000).** “Splanchnic-mesenteric capacitance bed in the postural tachycardia syndrome (POTS).” *Autonomic Neuroscience* 86(1–2):107–113. DOI: [10.1161/CIRCULATIONAHA.112.144501](https://doi.org/10.1161/CIRCULATIONAHA.112.144501) Meal-timing and blood-pressure work; context for the small-meals recommendation.
 
-* **Hitch D, Wrench J, eds. (2025).** *The Rehabilitation and Management of Long COVID: A Handbook for Clinical Practice.* London: Routledge. Clinical reference translated for practical reading; strong on allied-health referral pathways (speech-language, dietetic, cognitive rehab).
+* **Hitch D, Wrench J, eds. (2026).** *The Rehabilitation and Management of Long COVID: A Handbook for Clinical Practice.* London: Routledge. DOI: [10.4324/9781003528104](https://doi.org/10.4324/9781003528104) Clinical reference translated for practical reading; strong on allied-health referral pathways (speech-language, dietetic, cognitive rehab).
 
 ---
 
@@ -175,7 +175,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Mathé P, Götz V, Stete K, et al. (2024).** “No reduced serum serotonin levels in patients with post-acute sequelae of COVID-19.” *Infection*. DOI: [10.1007/s15010-024-02397-5](https://doi.org/10.1007/s15010-024-02397-5) Negative replication of the peripheral-serotonin-reduction finding in an independent cohort.
 
-* **Afrin LB, Molderings GJ (2024).** “Long COVID-19 and peripheral serotonin: a commentary and reconsideration.” PMC11019386. DOI: [10.2147/JIR.S456000](https://doi.org/10.2147/JIR.S456000) Commentary threading the conflicting serotonin data; useful for the “the story is still being worked out” framing.
+* **Anderson GM, Cook EH, Blakely RD, et al. (2024).** “Long COVID-19 and peripheral serotonin: a commentary and reconsideration.” *Journal of Inflammation Research* 17:2169–2172. DOI: [10.2147/JIR.S456000](https://doi.org/10.2147/JIR.S456000) Commentary threading the conflicting serotonin data; useful for the “the story is still being worked out” framing.
 
 * **Liu Q, Mak JWY, Su Q, Yeoh YK, et al. (2022).** “Gut microbiota dynamics in a prospective cohort of patients with post-acute COVID-19 syndrome.” *Gut* 71(3):544–552. DOI: [10.1038/s41591-021-01283-z](https://doi.org/10.1038/s41591-021-01283-z) Microbiome changes associated with LC; the empirical ground for the chapter’s fibre paragraph.
 
@@ -248,7 +248,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 ### Tier 2
 * **Stone AA, Shiffman S (2002).** “Capturing momentary, self-report data: a proposal for reporting guidelines.” *Annals of Behavioral Medicine* 24(3):236–243. DOI: [10.1207/S15324796ABM2403_09](https://doi.org/10.1207/S15324796ABM2403_09) Methodological companion to the 2002 BMJ paper above.
 
-* **Ruijgt T, Slaghekke A, Ellens A, Janssen KW, Wüst RCI (2025).** “Wearable HRV monitoring identifies autonomic dysfunction and thresholds for post-exertional malaise in Long COVID.” *medRxiv* preprint. DOI: [10.1007/s40279-026-02487-4](https://doi.org/10.1007/s40279-026-02487-4) Current work on wearable HRV data and PEM thresholds.
+* **Ruijgt TM, Slaghekke A, Ellens A, Janssen KW, Wüst RCI (2026).** “Wearable Heart Rate Variability Monitoring, Autonomic Dysfunction and Post-exertional Malaise in Long COVID: An Observational Study.” *Sports Medicine*, online first. DOI: [10.1007/s40279-026-02487-4](https://doi.org/10.1007/s40279-026-02487-4) Current work on wearable HRV data and PEM thresholds.
 
 * **Lank GK, Budhiraja S, Gaelen JI, et al. (2026).** “Characterizing Neuro-PASC outcome with the mobile Neuro-COVID recovery care companion application.” *BMC Neurology* 26(1):24. DOI: [10.1186/s12883-025-04577-8](https://doi.org/10.1186/s12883-025-04577-8) Sixty-three patients on an app-based symptom tracker across three months; the improvers were the ones whose recovery scores fluctuated most.
 
@@ -298,7 +298,7 @@ Patient-led research is flagged where it appears. This body of work is not an af
 
 * **Nieuwland JM, Nutma E, Philippens IHCHM, et al. (2023).** “Longitudinal positron emission tomography and postmortem analysis reveals widespread neuroinflammation in SARS-CoV-2 infected rhesus macaques.” *Journal of Neuroinflammation* 20(1):179. DOI: [10.1186/s12974-023-02857-z](https://doi.org/10.1186/s12974-023-02857-z) Animal model, four macaques. Postmortem staining found TSPO on microglia, astrocytes and small-vessel walls alike — the reason a bright TSPO scan reports immune activity in tissue without naming the cell responsible.
 
-* **Peter RS, Nieters A, Göpel S, et al. (2025).** “Post-COVID-19 condition: characteristics and natural course in a large German cohort — the EPILOC Phase 2 study.” *PLoS Medicine* 22(1):e1004511. DOI: [10.1371/journal.pmed.1004511](https://doi.org/10.1371/journal.pmed.1004511) The Freiburg cohort work on LC phenotyping (n=1,154) with CPET and cognitive testing; clinical-characterisation companion to the imaging literature.
+* **Peter RS, Nieters A, Göpel S, et al. (2025).** “Persistent symptoms and clinical findings in adults with post-acute sequelae of COVID-19/post-COVID-19 syndrome in the second year after acute infection: a population-based, nested case-control study.” *PLoS Medicine* 22(1):e1004511. DOI: [10.1371/journal.pmed.1004511](https://doi.org/10.1371/journal.pmed.1004511) The Freiburg case-control work on LC phenotyping (982 cases against 576 matched controls) with CPET and cognitive testing; clinical-characterisation companion to the imaging literature.
 
 ---
 
