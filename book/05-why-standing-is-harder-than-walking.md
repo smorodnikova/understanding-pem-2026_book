@@ -131,6 +131,7 @@ What you will have at the end of it is what Catherine had, staring at her bedroo
 ---
 
 ## Sources
+*Numbers match the bracketed references in the chapter text. Not every entry is pointed to from the text: some are background this chapter rests on rather than support for one specific claim.*
 1. Thieben MJ, Sandroni P, Sletten DM, Benrud-Larson LM, Fealey RD, Vernino S, Lennon VA, Shen W-K, Low PA. 2007\. Postural orthostatic tachycardia syndrome: the Mayo clinic experience. *Mayo Clinic Proceedings*, 82(3):308–313. DOI: [10.4065/82.3.308](https://doi.org/10.4065/82.3.308)
 2. Haensch C-A, Tosch M, Katona I, Weis J, Isenmann S. 2014\. Small-fiber neuropathy with cardiac denervation in postural tachycardia syndrome. *Muscle & Nerve*, 50(6):956–961. DOI: [10.1002/mus.24245](https://doi.org/10.1002/mus.24245)
 3. Fu Q, VanGundy TB, Galbreath MM, Shibata S, Jain M, Hastings JL, Bhella PS, Levine BD. 2010\. Cardiac origins of the postural orthostatic tachycardia syndrome. *Journal of the American College of Cardiology*, 55(25):2858–2868. DOI: [10.1016/j.jacc.2010.02.043](https://doi.org/10.1016/j.jacc.2010.02.043)
