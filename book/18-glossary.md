@@ -112,7 +112,7 @@ This is a quick-reference glossary, not a textbook. It covers the technical and 
 ## L
 **LC (Long COVID).** The post-acute syndrome following SARS-CoV-2 infection. The term was coined by patients in May 2020 and entered the medical literature from there. Used throughout the book as a working synonym for the LC subset of the broader IACC family.
 
-**LDN (Low-Dose Naltrexone).** Naltrexone at 0.5–6 mg daily, roughly a tenth of the dose used for opioid-use disorder. Proposed mechanisms include microglial modulation and partial restoration of TRPM3 ion-channel function in natural-killer cells (Sasso 2025). Clinical evidence in LC is small, short-duration, and mostly non-randomised. Chapter 7\.
+**LDN (Low-Dose Naltrexone).** Naltrexone at 1–6 mg daily in the published studies, roughly a tenth of the dose used for opioid-use disorder. Proposed mechanisms include microglial modulation and partial restoration of TRPM3 ion-channel function in natural-killer cells (Sasso 2025). Clinical evidence in LC is small, short-duration, and mostly non-randomised. Chapter 7\.
 
 ---
 
