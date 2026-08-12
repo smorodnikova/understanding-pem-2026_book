@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 5. Tools that work every day](06-tools-that-work-every-day.md)  ·  [Chapter 7. Food as a tool, not a diet →](08-food-as-a-tool-not-a-diet.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Chapter 6\. Pacing: the science of not overdoing it

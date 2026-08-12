@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 12. Explaining to those around you](13-explaining-to-those-around-you.md)  ·  [Reading list →](15-reading-list.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Conclusion. Recovery as a project

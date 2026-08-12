@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 4. Why standing is harder than walking](05-why-standing-is-harder-than-walking.md)  ·  [Chapter 6. Pacing: the science of not overdoing it →](07-pacing-the-science-of-not-overdoing-it.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Chapter 5\. Tools that work every day
@@ -114,6 +116,8 @@ Caffeine sits in its own category. For some patients it worsens symptoms by ampl
 
 ## Medications: matching the mechanism to the pattern
 This book is not a manual of pharmacotherapy, and the decision to prescribe any of the medications below belongs to a clinician who knows your situation in detail. What a reader can usefully bring to that conversation is a clear sense of what the available tools do, so that “what are our options?” is a question you can ask with specificity rather than a request to be handed a pill bottle and sent home.
+
+The dose figures below are the ranges that appear in published clinical guidance and study protocols. They are here so that the conversation with a prescriber can be specific — not so that anyone can act on them. Which drug, which dose, what it must not be combined with, and what needs monitoring all depend on the person, and none of that is decidable from a book.
 
 The four medications most often discussed in POTS, each with its target subtype:
 

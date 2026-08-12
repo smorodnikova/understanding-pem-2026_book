@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 2. The thermostat that won’t turn off](03-the-thermostat-that-wont-turn-off.md)  ·  [Chapter 4. Why standing is harder than walking →](05-why-standing-is-harder-than-walking.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Chapter 3\. Five diagnoses, one problem

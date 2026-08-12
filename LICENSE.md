@@ -12,6 +12,14 @@ In short: you may share this book freely, with attribution, for non-commercial
 purposes, without modifications. The plain-language summary is at
 <https://creativecommons.org/licenses/by-nc-nd/4.0/>. The binding text follows.
 
+**Scope of this license.** Except where otherwise noted, the original text and
+original illustrations in this book are licensed under CC BY-NC-ND 4.0.
+Third-party quotations, excerpts, figures, trademarks, names, and other
+third-party materials remain the property of their respective rights holders and
+are not licensed under this Creative Commons license. They are reproduced under
+permission, applicable license terms, or applicable copyright exceptions and
+limitations.
+
 ---
 
 # Attribution-NonCommercial-NoDerivatives 4.0 International

@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Appendix 1. Symptom diary](16-appendix-1-symptom-diary.md)  ·  [Glossary →](18-glossary.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Appendix 2\. Doctor summary

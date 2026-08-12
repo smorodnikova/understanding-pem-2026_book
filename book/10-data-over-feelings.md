@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 8. Sleep architecture, not sleep hours](09-sleep-architecture-not-sleep-hours.md)  ·  [Chapter 10. Talking to your doctor →](11-talking-to-your-doctor.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Chapter 9\. Data over feelings

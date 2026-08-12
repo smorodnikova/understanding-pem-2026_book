@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 1. Fatigue is not the right word](02-fatigue-is-not-the-right-word.md)  ·  [Chapter 3. Five diagnoses, one problem →](04-five-diagnoses-one-problem.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Chapter 2\. The thermostat that won’t turn off

@@ -12,6 +12,18 @@ A synthesis of current research on PEM, Long COVID, ME/CFS, and POTS.
 **Published:** 2026
 **License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — share freely with attribution, non-commercial, no derivatives
 
+> **Author and affiliation.** Written by Jane Smorodnikova, founder and CEO of
+> Welltory, in her individual capacity. This is not a Welltory product or a medical
+> service, and nothing in it represents a clinical position, recommendation, or
+> treatment recommendation of Welltory.
+>
+> **Not medical advice.** This book does not diagnose or treat, does not create a
+> physician-patient relationship, and is not a basis for starting, stopping, or
+> changing any medication, supplement, or dose. Those decisions belong with a
+> clinician who knows your history.
+>
+> [Full disclosures and limitations](book/00-a-note-from-the-author.md)
+
 ## What this is
 
 A plain-language map of how post-exertional malaise and the family of
@@ -71,6 +83,12 @@ This work is licensed under
 [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). You may
 copy and redistribute it in any medium or format, with attribution, for
 non-commercial purposes, without modifications. See [LICENSE.md](LICENSE.md).
+
+**Scope.** Except where otherwise noted, the original text and original
+illustrations are licensed under CC BY-NC-ND 4.0. Third-party quotations,
+excerpts, figures, trademarks, names, and other third-party materials remain the
+property of their respective rights holders and are not licensed under this
+Creative Commons license.
 
 ## Disclaimer
 

@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 10. Talking to your doctor](11-talking-to-your-doctor.md)  ·  [Chapter 12. Explaining to those around you →](13-explaining-to-those-around-you.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Chapter 11\. Psychological support ≠ “it’s all in your head”

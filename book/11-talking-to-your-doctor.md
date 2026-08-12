@@ -1,5 +1,7 @@
 [← Contents](../README.md)  ·  [← Chapter 9. Data over feelings](10-data-over-feelings.md)  ·  [Chapter 11. Psychological support ≠ “it’s all in your head” →](12-psychological-support-is-not-its-all-in-your-head.md)
 
+*An independent educational book by Jane Smorodnikova, founder and CEO of Welltory — not a Welltory product, not medical advice, and not a basis for changing any medication or dose. [Full disclosures](00-a-note-from-the-author.md)*
+
 ---
 
 # Chapter 10\. Talking to your doctor
