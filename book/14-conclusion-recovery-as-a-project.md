@@ -77,7 +77,7 @@ This is the shape of a household that has absorbed the illness into its operatin
 If you can build this, with one person or with three, it is worth more than any single tool in this book.
 
 ## What changes when the thermostat moves
-People ask me — in emails, in the Welltory community, in the research calls I run — what does it feel like when the thermostat actually starts to renegotiate? What is the tell?
+People ask me — in emails, in patient communities, and in the research conversations I run — what does it feel like when the thermostat actually starts to renegotiate? What is the tell?
 
 It is almost never a single dramatic moment. It is a set of small quiet ones.
 
