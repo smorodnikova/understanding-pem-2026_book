@@ -193,8 +193,6 @@ Then watch what happens to the conversation when the other person has a working 
 9. Guedj E, Campion JY, Dudouet P, Kaphan E, Bregeon F, Tissot-Dupont H, Guis S, Barthelemy F, Habert P, Ceccaldi M, Million M, Raoult D, Cammilleri S, Eldin C. “¹⁸F-FDG brain PET hypometabolism in patients with long COVID.” *European Journal of Nuclear Medicine and Molecular Imaging*. 2021;48(9):2823–2833. DOI: [10.1007/s00259-021-05215-4](https://doi.org/10.1007/s00259-021-05215-4) First systematic FDG-PET cohort describing a characteristic hypometabolic pattern in long COVID, concentrated in olfactory and limbic regions.
 10. Zhu Y, Quan P, Yamazaki T, Norweg A, Natelson B, Xu X. “Metabolic neuroimaging of myalgic encephalomyelitis/chronic fatigue syndrome and Long-COVID.” *Immunometabolism*. 2025;7(4):e00068. DOI: [10.1097/IN9.0000000000000068](https://doi.org/10.1097/IN9.0000000000000068) Mini-review of PET and MRI evidence on cerebral metabolism in post-acute infection syndromes — confirms the FDG-PET signal across multiple independent cohorts and at follow-up windows beyond one year, with discussion of the metabolic substrate (oxygen-extraction and mitochondrial pathways) underlying the imaging finding.
 
----
-
 
 ---
 

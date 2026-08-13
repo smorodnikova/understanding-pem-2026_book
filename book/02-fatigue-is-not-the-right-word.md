@@ -149,8 +149,6 @@ What you’re building is a map of the lag between effort and consequence. That 
 
 9. Swank Z, Senussi Y, Manickas-Hill Z, Yu XG, Li JZ, Alter G, Walt DR. Persistent circulating severe acute respiratory syndrome coronavirus 2 spike is associated with post-acute coronavirus disease 2019 sequelae. *Clinical Infectious Diseases*. 2023;76(3):e487–e490. DOI: [10.1093/cid/ciac722](https://doi.org/10.1093/cid/ciac722)
 
----
-
 
 ---
 

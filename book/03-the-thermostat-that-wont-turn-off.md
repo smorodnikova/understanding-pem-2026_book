@@ -155,8 +155,6 @@ Catherine did this test for the first time on a Tuesday, in her bedroom, with a 
 
 11. Mauro M, Cegolon L, Bestiaco N, Zulian E, Filon FL. Heart Rate Variability Modulation Through Slow-Paced Breathing in Health Care Workers with Long COVID: A Case-Control Study. *The American Journal of Medicine*. 2025\. DOI: [10.1016/j.amjmed.2024.05.021](https://doi.org/10.1016/j.amjmed.2024.05.021)
 
----
-
 
 ---
 

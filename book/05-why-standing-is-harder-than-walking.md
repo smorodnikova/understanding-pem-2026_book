@@ -146,8 +146,6 @@ What you will have at the end of it is what Catherine had, staring at her bedroo
 10. Fu Q, Levine BD. 2018\. Exercise and non-pharmacological treatment of POTS. *Autonomic Neuroscience*, 215:20–27. DOI: [10.1016/j.autneu.2018.07.001](https://doi.org/10.1016/j.autneu.2018.07.001)
 11. Medinger G, Altmann D. 2022\. *The Long COVID Handbook.* London: Hutchinson Heinemann. ISBN 9781529900125\. Survey of 603 women with Long COVID reporting correlation of POTS-pattern symptoms with menstrual cycle phases.
 
----
-
 
 ---
 

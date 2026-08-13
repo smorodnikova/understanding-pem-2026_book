@@ -183,8 +183,6 @@ One morning’s worth of data is the first sentence of a conversation that has b
 12. Raj SR, Black BK, Biaggioni I, Paranjape SY, Ramirez M, Dupont WD, Robertson D. 2009\. *Propranolol decreases tachycardia and improves symptoms in the postural tachycardia syndrome: less is more.* Circulation, 120(9): 725–734. DOI: [10.1161/CIRCULATIONAHA.108.846501](https://doi.org/10.1161/CIRCULATIONAHA.108.846501) The 80 mg dose lowered standing heart rate more than 20 mg, while symptom improvement at two hours was greater on the lower dose.
 13. Tahir F, Bin Arif T, Majid Z, Ahmed J, Khalid M. 2020\. *Ivabradine in Postural Orthostatic Tachycardia Syndrome: A Review of the Literature.* Cureus, 12(4): e7868. DOI: [10.7759/cureus.7868](https://doi.org/10.7759/cureus.7868) Reports a starting dose of 2.5 mg in two divided doses in the largest POTS cohort (Ruzieh et al. 2017, n=49), and 2.5 to 5 mg twelve-hourly across the published case reports. **And:** Sheldon RS, et al., 2015, as above. DOI: [10.1016/j.hrthm.2015.03.029](https://doi.org/10.1016/j.hrthm.2015.03.029) The upper end of the range — 5 to 7.5 mg twice daily — is stated in the inappropriate-sinus-tachycardia section of that consensus rather than the POTS section.
 
----
-
 
 ---
 

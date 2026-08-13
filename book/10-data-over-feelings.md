@@ -166,8 +166,6 @@ Either way, on day four you have something you did not have on day one: a number
 5. Jason LA, So S, Brown AA, Sunnquist M, Evans M. 2015\. “Test-Retest Reliability of the DePaul Symptom Questionnaire.” *Fatigue: Biomedicine, Health & Behavior* 3(1):16–32; and Jason LA, Sunnquist M, Brown A, Evans M, Newton JL. 2014\. “Are Myalgic Encephalomyelitis and Chronic Fatigue Syndrome Different Illnesses? A Preliminary Analysis.” *Journal of Health Psychology* 21(1):3–15. DOI: [10.1080/21641846.2014.978110](https://doi.org/10.1080/21641846.2014.978110) DePaul Symptom Questionnaire measures post-exertional malaise, fatigue quality, sleep, pain, cognitive dysfunction, and orthostatic intolerance across a six-month window, scored on both frequency and severity; long and short forms validated in multiple ME/CFS cohorts; distributed without cost through the DePaul Center for Community Research.
 6. Lank GK, Budhiraja S, Gaelen JI, Mukherjee S, Singer T, Venkatesh A, et al. 2026. “Characterizing Neuro-PASC outcome with the mobile Neuro-COVID recovery care companion application.” *BMC Neurology*. 2026;26(1):24. DOI: [10.1186/s12883-025-04577-8](https://doi.org/10.1186/s12883-025-04577-8) PMC12794446. Sixty-three patients tracked through a mobile application across a three-month window; 36 (57.1%) were classified as non-improvers. Improvers showed greater variance in subjective recovery than non-improvers (7.01 vs 3.79; p=0.0004). Both groups rated the application easy to use and satisfactory.
 
----
-
 
 ---
 

@@ -19,63 +19,17 @@ Print one copy per week. Keep it somewhere you will see it — the kitchen count
 
 WEEK OF: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-                         | Mon  | Tue  | Wed  | Thu  | Fri  | Sat  | Sun  |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-Morning resting HR       |      |      |      |      |      |      |      |
-
-(supine, before standing)|      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-Standing HR @ 2 min      |      |      |      |      |      |      |      |
-
-(after 5 min lying)      |      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-Orthostatic tax          |      |      |      |      |      |      |      |
-
-(standing − supine)      |      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-Sleep quality            |      |      |      |      |      |      |      |
-
-(1 unrefreshing → 10     |      |      |      |      |      |      |      |
-
- fully refreshed)        |      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-HUA — hours of upright   |      |      |      |      |      |      |      |
-
-activity (see Chapter 9\) |      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-Energy at midday         |      |      |      |      |      |      |      |
-
-(1 → 10\)                 |      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-Cognitive clarity        |      |      |      |      |      |      |      |
-
-at midday (1 → 10\)       |      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
-
-PEM today? (Y/N)         |      |      |      |      |      |      |      |
-
-If Y, trace to which     |      |      |      |      |      |      |      |
-
-day's activity (−1, −2,  |      |      |      |      |      |      |      |
-
-−3 days)                 |      |      |      |      |      |      |      |
-
-\-------------------------|------|------|------|------|------|------|------|
+|  | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:-----------------------------------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| Morning resting HR (supine, before standing) |  |  |  |  |  |  |  |
+| Standing HR @ 2 min (after 5 min lying) |  |  |  |  |  |  |  |
+| Orthostatic tax (standing − supine) |  |  |  |  |  |  |  |
+| Sleep quality (1 unrefreshing → 10 fully refreshed) |  |  |  |  |  |  |  |
+| HUA — hours of upright activity (see Chapter 9) |  |  |  |  |  |  |  |
+| Energy at midday (1 → 10) |  |  |  |  |  |  |  |
+| Cognitive clarity at midday (1 → 10) |  |  |  |  |  |  |  |
+| PEM today? (Y/N) |  |  |  |  |  |  |  |
+| If Y, trace to which day’s activity (−1, −2, −3 days) |  |  |  |  |  |  |  |
 
 ### Activity log (free-text, same page or facing page)
 For each block of activity, write one line in this form:
@@ -224,8 +178,6 @@ Some diary fields that look useful in principle are not worth the effort:
 * **Symptom-rating every symptom on a long list.** Pick the three to five symptoms that change most for you (for many readers: post-exertional heaviness, brain fog, sleep, lightheadedness on standing, headache). Track those. A flat list of forty checkboxes does not produce information you can act on; it produces a daily reminder of how many things are wrong.
 
 The diary’s job is to be readable in one minute, fillable in twelve, and printable in a year as the document that explains your illness in a language the clinic understands. Anything that does not serve those three functions is decoration.
-
----
 
 
 ---

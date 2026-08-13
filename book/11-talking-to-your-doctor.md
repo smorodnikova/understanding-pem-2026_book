@@ -181,8 +181,6 @@ Catherine left her appointment with an order for orthostatic vitals, a referral 
 4. Baptista SN, Atkins T, Chakraborty S, Bakhit M, Glasziou P, Byambasuren O. “Candidate treatments for long COVID: a narrative review of expert and patient-driven priorities.” *Frontiers in Medicine*. 2026;13:1734600. DOI: [10.3389/fmed.2026.1734600](https://doi.org/10.3389/fmed.2026.1734600) Narrative review of fourteen candidate long-COVID treatments — six with any long-COVID-specific RCT evidence, eight relying on mechanism or observational data.
 5. Bramante CT, et al. “Outpatient treatment of COVID-19 and incidence of post-COVID-19 condition over 10 months (COVID-OUT): a multicentre, randomised, quadruple-blind, parallel-group, phase 3 trial.” *The Lancet Infectious Diseases*. 2023;23(10):1119–1129. DOI: [10.1016/S1473-3099(23)00299-2](https://doi.org/10.1016/S1473-3099%2823%2900299-2) Relative risk reduction of 41.3% at day 300; cumulative incidence 6.3% on metformin against 10.6% on placebo. Enrolment required treatment within three days of symptom onset and seven days of a positive test; a prespecified subgroup starting under four days after symptom onset showed a larger effect, which the trial reports as a direction rather than a separate figure.
 
----
-
 
 ---
 

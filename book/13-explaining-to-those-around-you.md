@@ -146,8 +146,6 @@ Then watch what happens to the next conversation, once the person on the other e
 4. U.S. Department of Justice, Civil Rights Division, and U.S. Department of Health and Human Services, Office for Civil Rights, 2021\. “Guidance on ‘Long COVID’ as a Disability Under the ADA, Section 504, and Section 1557.” Long COVID can qualify as a disability under the ADA where it substantially limits a major life activity. Current employment guidance is maintained by the EEOC at eeoc.gov. <https://www.hhs.gov/civil-rights/for-providers/civil-rights-covid19/guidance-long-covid-disability/index.html>
 5. Bateman Horne Center. *ME/CFS & Long COVID Clinical Care Guide*, §17 “Caregiving.” Documents the three main load components for household caregivers of patients with energy-limiting chronic illness — social isolation, financial strain, and eroded capacity for recovery — and points to caregiver peer-support structures as an appropriate intervention. <https://batemanhornecenter.org/clinical-care-guide/>
 
----
-
 
 ---
 

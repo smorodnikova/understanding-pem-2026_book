@@ -93,8 +93,6 @@ It does not diagnose you, and it is not a medical record. It is a summary you wr
 
 It also does not replace the conversation. Chapter 10 covers the twenty-second spoken introduction that goes with this page, and the scripts for the four moments where an appointment most often goes sideways. The page buys you the minutes; the chapter is about how to spend them.
 
----
-
 
 ---
 

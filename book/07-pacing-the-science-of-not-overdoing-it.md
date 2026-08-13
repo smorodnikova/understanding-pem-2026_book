@@ -184,8 +184,6 @@ One thing not to do. Do not start a movement programme, do not add or subtract a
 11. White, P.D., et al., 2011\. *Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy, and specialist medical care for chronic fatigue syndrome (PACE): a randomised trial.* The Lancet, 377(9768): 823–836. DOI: [10.1016/S0140-6736(11)60096-2](https://doi.org/10.1016/S0140-6736%2811%2960096-2)
 12. Wilshire, C.E., et al., 2018\. *Rethinking the treatment of chronic fatigue syndrome — a reanalysis and evaluation of findings from a recent major trial of graded exercise and CBT.* BMC Psychology, 6: 6\. DOI: [10.1186/s40359-018-0218-3](https://doi.org/10.1186/s40359-018-0218-3) Independent reanalysis of PACE data showing that original recovery and improvement claims were not supported under the trial’s pre-specified outcome definitions.
 
----
-
 
 ---
 

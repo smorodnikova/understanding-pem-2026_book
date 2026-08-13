@@ -50,8 +50,6 @@ Everything else is the book.
 
 *Some sections of this book discuss research conducted or supported by Welltory on recovery patterns, HRV, activity, sleep, and energy-limiting conditions. These references describe exploratory research and research hypotheses. They do not describe a current consumer feature of the Welltory app unless expressly stated otherwise. The Welltory app does not diagnose, predict, monitor, prevent, treat, or mitigate Long COVID, ME/CFS, POTS, PEM, dysautonomia, or any other disease or medical condition. Any wellness trends shown in the app are provided for general wellbeing context, lifestyle reflection, and conversations with a qualified healthcare provider.*
 
----
-
 
 ---
 

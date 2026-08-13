@@ -142,8 +142,6 @@ You are already the field researcher. You are already the person in the room wit
 
 * RECOVER initiative patient-partnered research framework — patient representatives on priority-setting panels; PEM characterized initially through patient-led surveys and later confirmed by CPET in specialist clinics.
 
----
-
 
 ---
 

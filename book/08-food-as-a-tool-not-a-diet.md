@@ -176,8 +176,6 @@ One experiment. One variable. Two weeks of observation. The frame here is runnin
 13. Byambasuren O, Atkins T, Baptista S, Glasziou P, Chakraborty S. 2026. “Effect of low-dose naltrexone for long COVID: a systematic review and meta-analysis.” *BMJ Open* 16(7):e111253. DOI: [10.1136/bmjopen-2025-111253](https://doi.org/10.1136/bmjopen-2025-111253) (preprint: medRxiv DOI: [10.1101/2025.09.09.25335451](https://doi.org/10.1101/2025.09.09.25335451); and Du A, Nguyen ADK. 2025. “Does Low-Dose Oral Naltrexone Alleviate Symptoms of Long COVID? A Systematic Review and Meta-Analysis.” *COVID* (MDPI) 5(12):198. Both 2025 reviews pool four observational pre-post LC cohorts (combined n ≈ 155, dose range 1–6 mg) and converge on a moderate fatigue effect with approximately 50% of patients meeting responder criteria at 12 weeks; both note the absence of completed randomized controlled trial data and identify the Nacul (NCT05430152) and RECOVER-TLC LDN arms as the upcoming definitive readouts.
 14. Singh A, D’Amico D, Andreux PA, Fouassier AM, Blanco-Bose W, Evans M, Aebischer P, Auwerx J, Rinsch C. 2022\. “Urolithin A improves muscle strength, exercise performance, and biomarkers of mitochondrial health in a randomized trial in middle-aged adults.” *Cell Reports Medicine* 3(5):100633. DOI: [10.1016/j.xcrm.2022.100633](https://doi.org/10.1016/j.xcrm.2022.100633) Muscle strength improvement of approximately 12% and improvement in mitochondrial biomarkers in healthy adults aged 40–64. No Long COVID trial has been completed. About 30–40% of people have gut microbiomes capable of producing urolithin A endogenously from dietary polyphenols.
 
----
-
 
 ---
 

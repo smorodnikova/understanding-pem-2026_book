@@ -355,8 +355,6 @@ A separate list, because this body of work sits outside conventional journal pip
 
 *The project will keep reading, and we will note where the evidence moves. This shelf is where it stood in the spring of 2026\.*
 
----
-
 
 ---
 

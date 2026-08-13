@@ -131,8 +131,6 @@ Change one variable. Observe for two weeks. Then decide. The usual trap in sleep
 14. Vural EMS, van Munster BC, de Rooij SE. 2014\. “Optimal dosages for melatonin supplementation therapy in older adults: a systematic review of current literature.” *Drugs & Aging* 31(6):441–451. DOI: [10.1007/s40266-014-0178-0](https://doi.org/10.1007/s40266-014-0178-0) Sixteen studies in adults aged fifty-five and above: exogenous melatonin raises blood levels dose-dependently, and higher doses stay above threshold longer. The authors advise the lowest possible dose of an immediate-release formulation to mimic the normal physiological rhythm and avoid prolonged supra-physiological levels. Note the population — this is an older cohort than most readers of this book.
 15. Carrillo-Vico A, Lardone PJ, Álvarez-Sánchez N, Rodríguez-Rodríguez A, Guerrero JM. 2013\. “Melatonin: buffering the immune system.” *International Journal of Molecular Sciences* 14(4):8638–8683. DOI: [10.3390/ijms14048638](https://doi.org/10.3390/ijms14048638) Review arguing for melatonin as an immune buffer — stimulating under basal or immunosuppressive conditions, anti-inflammatory when immune responses are exacerbated — and stating plainly that it remains unclear how melatonin regulates immunity. Includes a section on autoimmunity.
 
----
-
 
 ---
 

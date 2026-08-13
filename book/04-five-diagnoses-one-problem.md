@@ -163,8 +163,6 @@ Sketch the pattern map on a single sheet — symptoms down the left, triggers an
 
 13. Shaw BH, Stiles LE, Bourne K, Green EA, Shibao CA, Okamoto LE, Garland EM, Gamboa A, Diedrich A, Raj V, Sheldon RS, Biaggioni I, Robertson D, Raj SR. The face of postural tachycardia syndrome — insights from a large cross-sectional online community-based survey. *Journal of Internal Medicine*. 2019;286(4):438–448. DOI: [10.1111/joim.12895](https://doi.org/10.1111/joim.12895) Survey of 4,835 people with a physician diagnosis of POTS: median diagnostic delay 24 months (IQR 6–72), mean 4.9 ± 7.1 years, about 15% undiagnosed beyond ten years, mean seven physicians seen before diagnosis, and a diagnostic delay of 5.0 ± 7.2 years in women against 3.0 ± 4.4 in men.
 
----
-
 
 ---
 

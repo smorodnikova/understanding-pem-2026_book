@@ -104,8 +104,6 @@ This is not busywork. It is the start of your own manual, the one the hospital d
 
 * Davis HE, Assaf GS, McCorkell L, et al. Characterizing Long COVID in an international cohort: 7 months of symptoms and their impact. *EClinicalMedicine*. 2021;38:101019. DOI: [10.1016/j.eclinm.2021.101019](https://doi.org/10.1016/j.eclinm.2021.101019)
 
----
-
 
 ---
 
