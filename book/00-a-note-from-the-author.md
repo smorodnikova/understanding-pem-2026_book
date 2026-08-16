@@ -25,8 +25,8 @@ To approach the subject responsibly, I spent most of the last year reading peer-
 
 I’m sharing it because it would be strange not to. If I spent a year trying to understand the science and lived experience behind an illness you live with, keeping the summary to myself would waste most of the value of the work. So this book is published for a general audience and available to anyone on the same terms — it isn’t a benefit of any subscription, and you don’t have to use Welltory to read it.
 
-## The part where the lawyers make me speak carefully
-Below are the boundaries this book runs inside. Read them to know what you are holding, or skip to Chapter 1 if you already know how disclaimers work.
+## Important context and limitations
+The following points explain what this book is, what it is not, and how its information should be used.
 
 **Who I am, and where Welltory sits in this.** I wrote this book as an independent author. It is not a Welltory product and not a medical service, and my affiliation does not mean Welltory endorses anything in it. As for the app: The Welltory app does not diagnose, predict, monitor, prevent, treat, or mitigate any disease or medical condition, or determine whether a person has one.
 
@@ -42,7 +42,7 @@ Throughout the book I quote, with attribution, from the published work of many c
 
 **About the data.** Research cited here was current as of April 2026\. The field of post-infectious chronic conditions is very active, as findings replicate, fail to replicate, or are refined. Some of the specific numbers in this book will be outdated within a year. However, the underlying patterns — how PEM behaves, how POTS subtypes differ, how autonomic dysregulation presents — have appeared consistently across a decade of ME/CFS literature. Their mechanisms, classification, and measurement nevertheless remain active areas of research. For research updates, the US Patient-Led Research Collaborative and the ME Association in the UK publish accessible summaries.
 
-You will notice that the numbers in the literature are often wide. When this book cites the prevalence of autonomic dysfunction in Long COVID, the range runs from roughly a third to over eighty percent. That spread is an accurate description of cohorts grouped by diagnosis rather than by how their bodies respond to exertion. Measuring different groups with different tools produces different numbers. Tighter numbers require a phenotypically uniform group. That is why the work now runs through an observational cohort we are following, selected for a shared post-exertional malaise phenotype rather than a chart label. Everyday signals, read as general-wellness context rather than as anything diagnostic, may make it possible to see patterns that disappear when you average a room full of people whose underlying mechanisms differ. This book is the map drawn before that observation begins. It represents the best synthesis the literature offers in the spring of 2026, and the next book will be written on the data we gather. That observation is separate work with its own participants and its own consent process. This book is not part of it, and reading this book is not a way into it.
+You will notice that the numbers in the literature are often wide. When this book cites the prevalence of autonomic dysfunction in Long COVID, the range runs from roughly a third to over eighty percent. That spread is an accurate description of cohorts grouped by diagnosis rather than by how their bodies respond to exertion. Measuring different groups with different tools produces different numbers. Tighter numbers would require a phenotypically uniform group, and most published cohorts are grouped by diagnosis instead. This book is a snapshot of published research reviewed through April 2026. It does not report original research. Future editions, if any, may be updated to reflect newly published evidence.
 
 Everything else is the book.
 

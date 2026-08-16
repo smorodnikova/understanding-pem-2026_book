@@ -126,7 +126,7 @@ Start an activity diary with a 48-hour window. Not “how am I feeling today?”
 
 Pick one ordinary activity: a shower, a walk to the mailbox, a work call, twenty minutes on a laptop. Write down the activity. Then, that same evening, the next morning, and the morning after that, write a line or two about how you feel: energy, head, heart, sleep, pain, mood. Do this for two weeks. You don’t need to be precise. You need to be consistent.
 
-What you’re building is a map of the lag between effort and consequence. That map is the single most useful diagnostic tool most patients never learn to make. It is also the best thing you can bring to the next appointment with a sympathetic clinician — because patterns across days are something medicine knows how to read, while a single-day “how do you feel?” is not.
+What you’re building is a map of the lag between effort and consequence. That map is the single most useful self-observation record most patients never learn to make. It is also the best thing you can bring to the next appointment with a sympathetic clinician — because patterns across days are something medicine knows how to read, while a single-day “how do you feel?” is not.
 
 ---
 

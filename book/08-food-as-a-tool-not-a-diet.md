@@ -7,7 +7,7 @@
 # Chapter 7\. Food as a tool, not a diet
 There is no “Long COVID diet.” If one existed, the patient internet would have found it by now, fought over it in three languages, and built a spreadsheet.
 
-What exists instead is a set of levers, each matched to a specific job. Salt and water, which we covered in Chapters 4 and 5, is a blood-volume intervention for orthostatic intolerance, not a diet. A low-histamine elimination is a short diagnostic probe for mast-cell involvement, not a wellness trend. Meal structure is autonomic damage control, not clean eating. And most supplements, at the dose ranges sold to people with chronic illness, fall somewhere between targeted repair and expensive urine.
+What exists instead is a set of levers, each matched to a specific job. Salt and water, which we covered in Chapters 4 and 5, is a blood-volume intervention for orthostatic intolerance, not a diet. A low-histamine elimination is a short-term elimination trial that looks for mast-cell involvement, not a wellness trend. Meal structure is autonomic damage control, not clean eating. And most supplements, at the dose ranges sold to people with chronic illness, fall somewhere between targeted repair and expensive urine.
 
 The wrong question here is “what should I eat?” — as if one perfect answer is waiting to be found. The better question is: *what job am I asking this food to do?*
 
@@ -30,7 +30,7 @@ The detail many people miss is that freshness matters chemically, not just aesth
 
 Wine is a four-way attack in a single glass: the drink itself contains histamine, it activates mast cells directly, it dilates peripheral vessels, and it fragments sleep. Fermented foods sit in a strange place in the literature — a microbiome booster in one kind of article, a histamine disaster in another. For someone with mast-cell sensitivity, both can be true at once: fermentation may genuinely help the microbiome and still wreck a histamine-sensitive person’s evening.
 
-A low-histamine trial is a short-term diagnostic probe, not a way of life. Its purpose is to test whether histamine is part of your picture, quickly, and then get you back to a broader diet.
+A low-histamine trial is a short-term structured observation period, not a way of life. Its purpose is to test whether histamine is part of your picture, quickly, and then get you back to a broader diet.
 
 Here’s how to run it cleanly over ten to fourteen days. Keep everything else stable: your caffeine, your antihistamines if you’re on them, your hydration and sodium routine, your supplements. Change only the food. Remove the obvious high-histamine group — aged cheeses, fermented foods, alcohol, processed and cured meats, smoked or canned fish, vinegar-heavy dishes, and leftovers that sat in the fridge overnight. Cook fresh. If you batch-cook, portion and freeze the extras immediately so they never get a chance to mature in the fridge. Track the same few symptoms every day: post-meal tachycardia, flushing or itching, gut chaos, sleep quality, brain fog.
 
@@ -40,7 +40,7 @@ If symptoms settle clearly on the clean protocol and come back with specific rei
 
 And it may only be a piece. If your flushing and GI chaos improve but standing is still hard, the experiment hasn’t failed — it’s told you that mast-cell mediators are one mechanism among several, and that your orthostatic intolerance (Chapter 4\) has a different engine than your post-meal itch.
 
-One last warning. Do not stack restriction on restriction until your diet is five bland foods and a mountain of fear. Low-histamine is a short diagnostic test, never a lifelong identity.
+One last warning. Do not stack restriction on restriction until your diet is five bland foods and a mountain of fear. Low-histamine is a short-term observation period, never a lifelong identity.
 
 The 2024 open-label signal for an H1 \+ H2 antihistamine combination (fexofenadine and famotidine at standard doses), and the STIMULATE-ICP readout that frames it, are covered in Chapter 3 (see Ch03 ref 10); the short version is that the mechanism is plausible, the observational data is hopeful, and a placebo-controlled trial is imminent. This one is clinician-prescribed territory, not a self-directed experiment like the elimination diet.
 
