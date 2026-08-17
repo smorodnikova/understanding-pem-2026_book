@@ -8,9 +8,10 @@
 
 A synthesis of current research on PEM, Long COVID, ME/CFS, and POTS.
 
-**Author:** Jane Smorodnikova
-**Published:** 2026
-**License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — share freely with attribution, non-commercial, no derivatives
+- **Author:** Jane Smorodnikova
+- **Published:** 2026
+- **Research reviewed through:** April 2026
+- **License:** [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) — share freely with attribution, non-commercial, no derivatives
 
 > **Author and affiliation.** Written by Jane Smorodnikova, founder and CEO of
 > Welltory, in her individual capacity. This is not a Welltory product or a medical
@@ -42,8 +43,9 @@ conditions with post-exertional malaise — and the people who care for them.
 
 ## How to read it
 
-- **[Online, chapter by chapter](book/)** — every chapter is a separate file
-- **Download:**
+**[Online, chapter by chapter](book/)** — every chapter is a separate file.
+
+**Or download:**
 
 - [PDF for reading on screen (A4)](downloads/understanding-pem-2026-screen-a4.pdf) — 3.0 MB
 - [PDF for printing (6×9 in)](downloads/understanding-pem-2026-print-6x9.pdf) — 3.1 MB
@@ -101,6 +103,6 @@ treat, or mitigate any disease or medical condition. The full statement is in
 
 ## Updates and corrections
 
-Research current as of mid-2026. Figures in a field moving this fast will date.
+Research reviewed through April 2026. Figures in a field moving this fast will date.
 If you spot an error, [open an issue](https://github.com/smorodnikova/understanding-pem-2026_book/issues) — corrections are
 tracked in [CHANGELOG.md](CHANGELOG.md).
