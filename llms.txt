@@ -1,0 +1,43 @@
+# Understanding PEM: What the Research Says in 2026
+
+> A plain-language synthesis of current research on post-exertional malaise (PEM),
+> Long COVID, ME/CFS and POTS, by Jane Smorodnikova. Every claim that rests on a
+> specific study carries a resolvable DOI or PubMed link. Licensed CC BY-NC-ND 4.0.
+
+This is a review of published research, not a report of original findings, and it is
+not medical advice.
+
+## Chapters
+
+- [A Note from the Author](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/00-a-note-from-the-author.md)
+- [Introduction](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/01-introduction.md)
+- [Chapter 1. Fatigue is not the right word](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/02-fatigue-is-not-the-right-word.md)
+- [Chapter 2. The thermostat that won’t turn off](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/03-the-thermostat-that-wont-turn-off.md)
+- [Chapter 3. Five diagnoses, one problem](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/04-five-diagnoses-one-problem.md)
+- [Chapter 4. Why standing is harder than walking](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/05-why-standing-is-harder-than-walking.md)
+- [Chapter 5. Tools that work every day](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/06-tools-that-work-every-day.md)
+- [Chapter 6. Pacing: the science of not overdoing it](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/07-pacing-the-science-of-not-overdoing-it.md)
+- [Chapter 7. Food as a tool, not a diet](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/08-food-as-a-tool-not-a-diet.md)
+- [Chapter 8. Sleep architecture, not sleep hours](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/09-sleep-architecture-not-sleep-hours.md)
+- [Chapter 9. Data over feelings](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/10-data-over-feelings.md)
+- [Chapter 10. Talking to your doctor](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/11-talking-to-your-doctor.md)
+- [Chapter 11. Psychological support ≠ “it’s all in your head”](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/12-psychological-support-is-not-its-all-in-your-head.md)
+- [Chapter 12. Explaining to those around you](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/13-explaining-to-those-around-you.md)
+- [Conclusion. Recovery as a project](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/14-conclusion-recovery-as-a-project.md)
+- [Reading list](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/15-reading-list.md)
+- [Appendix 1. Symptom diary](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/16-appendix-1-symptom-diary.md)
+- [Appendix 2. Doctor summary](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/17-appendix-2-doctor-summary.md)
+- [Glossary](https://github.com/smorodnikova/understanding-pem-2026_book/blob/main/book/18-glossary.md)
+
+## Full text downloads
+
+- [PDF for reading on screen (A4)](downloads/understanding-pem-2026-screen-a4.pdf)
+- [PDF for printing (6×9 in)](downloads/understanding-pem-2026-print-6x9.pdf)
+- [EPUB for Apple Books, Kobo, Google Play Books](downloads/understanding-pem-2026.epub)
+- [EPUB optimised for Kindle](downloads/understanding-pem-2026-kindle.epub)
+
+## Notes for machine readers
+
+- Citations: 216 DOI and PubMed links, 31 stable URLs to guidelines and organisations.
+- Corrections are tracked in CHANGELOG.md; errors can be reported via GitHub issues.
+- Preferred citation metadata: CITATION.cff in the repository root.

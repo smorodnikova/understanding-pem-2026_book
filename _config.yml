@@ -1,0 +1,17 @@
+# Jekyll для GitHub Pages. jekyll-sitemap отдаёт sitemap.xml,
+# jekyll-seo-tag — title, description, canonical и Open Graph.
+title: Understanding PEM
+description: >-
+  A plain-language synthesis of current research on post-exertional malaise,
+  Long COVID, ME/CFS and POTS. Free to read, free to download.
+url: https://smorodnikova.github.io
+baseurl: /understanding-pem-2026_book
+author: Jane Smorodnikova
+lang: en-US
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+exclude:
+  - CITATION.cff
+  - .zenodo.json
