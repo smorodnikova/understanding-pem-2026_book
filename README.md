@@ -49,10 +49,10 @@ conditions with post-exertional malaise — and the people who care for them.
 
 **Or download:**
 
-- [PDF for reading on screen (A4)](downloads/understanding-pem-2026-screen-a4.pdf) — 3.0 MB
-- [PDF for printing (6×9 in)](downloads/understanding-pem-2026-print-6x9.pdf) — 3.1 MB
-- [EPUB for Apple Books, Kobo, Google Play Books](downloads/understanding-pem-2026.epub) — 1.4 MB
-- [EPUB optimised for Kindle](downloads/understanding-pem-2026-kindle.epub) — 1.9 MB
+- [PDF for reading on screen (A4)](https://github.com/smorodnikova/understanding-pem-2026_book/releases/latest/download/understanding-pem-2026-screen-a4.pdf) — 3.0 MB
+- [PDF for printing (6×9 in)](https://github.com/smorodnikova/understanding-pem-2026_book/releases/latest/download/understanding-pem-2026-print-6x9.pdf) — 3.1 MB
+- [EPUB for Apple Books, Kobo, Google Play Books](https://github.com/smorodnikova/understanding-pem-2026_book/releases/latest/download/understanding-pem-2026.epub) — 1.4 MB
+- [EPUB optimised for Kindle](https://github.com/smorodnikova/understanding-pem-2026_book/releases/latest/download/understanding-pem-2026-kindle.epub) — 1.9 MB
 
 The screen PDF is A4 with wide margins so the line length stays readable. The
 print PDF is 6×9 inches with a binding margin, sized for print-on-demand. The
